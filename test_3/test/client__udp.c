@@ -7,12 +7,11 @@
 
 int main (int argc, char* argv[]) {
     if(argc != 3) {
-        printf("Usage:%s ip port\n",argv[0]); 
+        printf("\nUsage:\n\t%s ip port\n",argv[0]); 
         return 1;
     }
 
-    // 1. Создать сокет
-    int sock = socket(AF_INET, SOCK_DGRAM , 0 );// SOCK_DGRAM означает UDP
+    int sock = socket(AF_INET, SOCK_DGRAM , IPPROTO_UDP );
     if(sock < 0) {
         perror("socket");
         return 2;
@@ -20,17 +19,12 @@ int main (int argc, char* argv[]) {
 
     printf("sock:%d\n",sock);
 
-  // 2. Именованный сокет
-
     struct sockaddr_in server;
     server.sin_family = AF_INET;
     server.sin_port = htons (atoi(argv[2]));
     server.sin_addr.s_addr = inet_addr (argv[1]);
 
-    // 3. Клиент должен стараться не привязывать номер порта
-    char buf [1024];// Буфер
-
-    // 4. Клиент отправляет информацию
+    char buf [1024];
 
     while(1) {
         printf("Please Enter# ");
