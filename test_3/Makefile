@@ -1,3 +1,6 @@
 
-test_3: test_3.c   test_3.Thread.c   test_3.PostChange.c
-	gcc  -o $@  -lev -lpcap $^
+test_3:      main.o   thread.o   utiles.o
+    gcc  -o $@  -lev  $^
+
+%.o: %.c my.h
+    gcc -c $<
