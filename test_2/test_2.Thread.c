@@ -1,103 +1,87 @@
 #include "my_2.h"
 
-static _ParamThread *prm;
+static void sender_to_client_cb (struct ev_loop *evLoop, ev_io *w, int ) {
+    char acBuffer [1024];
+    _Prm * prm = ev_userdata (evLoop);
 
-static void recv_callback (struct ev_loop *evLoop, ev_io *w, int );
+    struct sockaddr_un  clnt_addr;
+    int caddrlen;
+    caddrlen = sizeof(clnt_addr);
 
-static void write_callback (struct ev_loop *evLoop, ev_io *w, int ) {
-    write (w->fd,prm->acBuffer,strlen(prm->acBuffer));
-
-    ev_io_stop (evLoop,  w);
-    ev_io_init (w,recv_callback,w->fd,EV_READ);
-    ev_io_start (evLoop,w);
-}
-
-static void PostMessage (void) {
-
-    // "первый" свободен ?
-    if (ev_async_pending(&prm->watcher_1)==0) {
-        if (memcmp(prm->acBuffer,"+++",3))
-            // не завершение, предполагается обработка acBuffer
-            pthread_mutex_lock (&prm->LockBuffer);  // пусть 1-й поток и разблокирует это
-        ev_async_send (prm->loop_1, &prm->watcher_1);
+    int n = recvfrom (w->fd, acBuffer, sizeof(acBuffer), 0,
+        (struct sockaddr*)&clnt_addr, &caddrlen);
+    if (n > 0) {
+        acBuffer [n] = 0;
+printf ("2> %s\n");
+        send (prm->iSock, acBuffer, n, 0);
     }
 }
 
-static void recv_callback (struct ev_loop *evLoop, ev_io *w, int ) {
+static void recv_cb (struct ev_loop *evLoop, ev_io *w, int ) {
 
-    int ret = recv (w->fd,prm->acBuffer,sizeof(prm->acBuffer),0);
+    char acBuffer [1024];
+    int ret = recv (w->fd,acBuffer,sizeof(acBuffer)-1,0);
     if (ret > 0) {
-        prm->acBuffer[ret] = 0;
-        printf (prm->acBuffer);
+        _Prm * prm = ev_userdata (evLoop);
+        acBuffer [ret] = 0;
+        printf ("2< %s", acBuffer);
 
-        // сообщить 1-му потоку о доступности буфера
-        PostMessage ();
-
-        // дождаться обработки строки в 1-м потоке
-//    puts ("SEND REPONSE ...");
-//    если что-то печатать (как выше) - будет достаточная пауза для отработки 1-го потока
-//    и далее посылается перевёрнутая строка :)  мутексы не нужны :))
-        pthread_mutex_lock (&prm->LockBuffer); // пусть 1-й поток разблокирует это
-        pthread_mutex_unlock (&prm->LockBuffer);
-
-        if (!memcmp(prm->acBuffer,"+++",3)) {
-        // завершение ...
-            ev_io_stop (evLoop, w);
-            ev_io_init (w,NULL,0,0);// как ещё остановить это - итио ^_^     извините :)
-        } else {
-            // послать ответ ... тот что в  prm->acBuffer
-            ev_io_stop (evLoop,  w);
-            ev_io_init (w, write_callback, w->fd, EV_WRITE);
-            ev_io_start (evLoop, w);
-        }
-
+        // послать строку первому потоку
+        sendto (prm->iExchange, acBuffer, strlen(acBuffer), 0,
+            (struct sockaddr*)&prm->unServerAddress,sizeof(prm->unServerAddress)
+        );
+    } else if ((ret < 0) && (errno == EAGAIN || errno == EWOULDBLOCK)) {
+        ;
     } else {
         puts ("remote socket closed!");
-
-        ev_io_stop (evLoop, w);
-        ev_io_init (w,NULL,0,0);// как ещё остановить это - итио ^_^     извините :)
-
-        // сообщить основному потоку о завершении
-        strcpy (prm->acBuffer,"+++");
-        PostMessage ();
+        // отменить обработку
+        ev_break (evLoop, EVBREAK_ALL);
     }
 
 }
 
-static void accept_callback (struct ev_loop *evLoop, ev_io *w, int ) {
-    int newfd;
-    struct sockaddr_in sin;
-    socklen_t addrlen = sizeof(struct sockaddr);
+void* thread_2 (void* args) {
+    puts ("new client ...");
 
-    while ((newfd = accept(w->fd, (struct sockaddr *)&sin, &addrlen)) < 0) {
-        if (errno == EAGAIN || errno == EWOULDBLOCK) {
-            continue; 
-        } else {
-            printf ("accept error.[%s]\n", strerror(errno));
-            break;
-        }
+    _Prm *prm = malloc(sizeof(*prm));
+    if (!prm) {
+        puts ("-ERROR small memory");
+        return NULL;
     }
 
-    ev_io_stop (evLoop,w);
-    ev_io_init (w,recv_callback,newfd,EV_READ);
-    ev_io_start (evLoop,w);
+    memcpy (prm, args, sizeof(*prm));
+    printf ("iSock= %i\n", prm->iSock);
+    struct sockaddr_un unClientAddress; // только лишь для удаления временного файла
+    prm->iExchange = GetUnixSock (prm->unServerAddress.sun_path, &unClientAddress);
 
-    printf("accept callback : fd :%d\n",w->fd);
-}
+    if (prm->iExchange >= 0) {
+        struct ev_loop *evloop_2 = ev_loop_new (EVFLAG_AUTO);
+        if (evloop_2) {
+            ev_io w_Client;
+            ev_io_init (&w_Client, recv_cb, prm->iSock, EV_READ);
+            ev_io_start (evloop_2, &w_Client); 
+            // добавить обработчик для обмена с первым потоком
+            ev_io w_Exchange;
+            ev_io_init (&w_Exchange, sender_to_client_cb, prm->iExchange, EV_READ);
+            ev_io_start (evloop_2, &w_Exchange);
+            
+            ev_set_userdata (evloop_2, prm);
+            
+            ev_loop (evloop_2,0);
+            
+            ev_loop_destroy (evloop_2);
+        } else
+            puts ("-ERROR small memory evlib");
 
-void * thread_2 (void* args) {
-    puts ("THREAD_2 >>>>>>>>>>>>>>>>>>>>>>>");
+        close (prm->iExchange);
+        unlink (unClientAddress.sun_path);
+    } else
+        puts ("-ERROR no local sockets");
 
-    prm = args;
+    close (prm->iSock);
+    free (prm);
 
-    struct ev_loop *evloop_2 = ev_loop_new (EVFLAG_AUTO);
-    ev_io ev_io_watcher_2;
-    ev_io_init (&ev_io_watcher_2, accept_callback, prm->iSocket, EV_READ);
-    ev_io_start (evloop_2, &ev_io_watcher_2); 
-    ev_loop (evloop_2,0);
-
-    ev_loop_destroy (evloop_2);
-
-    puts ("THREAD_2 <<<<<<<<<<<<<<<<<<<<<<<");
+puts ("thread ENDED");
     return NULL;
 }
+
