@@ -7,18 +7,18 @@
 #include <errno.h>
 #include <pthread.h>
 #include <arpa/inet.h>
+#include <sys/un.h>
 
 #include <ev.h>
 
 typedef struct {
-    int iSocket;
-    struct ev_loop* loop_1;
-    ev_async        watcher_1;
+    int iExchange;  //  для связи потоков
+    struct sockaddr_un unServerAddress;
 
-    char acBuffer [1024];
-    pthread_mutex_t LockBuffer;
-} _ParamThread;
+    int iSock;      //  клиент (телнет/прочее)
+} _Prm;
 
 void* thread_2 (void* args);
+int GetUnixSock (char *pre_name, struct sockaddr_un *unServerAddress);
 
 #endif  //  #ifndef _MY_2_H_
