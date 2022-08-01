@@ -4,7 +4,6 @@
 ---------------------------------------------------------------------------------------------
 Применемые инструменты:
     libev   4.32
-    libpcap 1.10.0  (в третьем задании)
 
 ---------------------------------------------------------------------------------------------
 
@@ -51,26 +50,19 @@
     расписать технические детали как бы ты это реализовал
 
     каталог "test_3"
-    Сборка:
-            задать в test_3.Processing.c
-                #define MAC_DEST   MAC_SRC    DEST_IP    SRC_IP
-                        2-й комп   1-й комп   2-й комп   1-й комп
-                        ????????   ????????   10.1.2.3   10.1.2.4
-            далее
-            gcc  -o test_3  -lev -lpcap    test_3.c   test_3.Thread.c   test_3.Processing.c
-            или make
-
-    sketch_3.odp         -пояснение взаимодействия модулей
-    sketch_3.Test.odp    -пояснение к тестовому прогону
+    Сборка: make
 
     Запуск:
-            eth0  10.1.2.4                          eth0  10.1.2.3
-        -------------------------               ------------------------
-        sudo ./test_3   lo   eth0               test_3.Processing.c   #define MAC_DEST  MAC_SRC  DEST_IP  SRC_IP
-        test/client     127.0.0.1  8003
-        test/server     8003                    test/server     8003
 
-5 bytes  127.0.0.1 port 50088 ==> 12345         5 bytes  10.1.2.4 port 50088 ==> 54321
-6 bytes  127.0.0.1 port 50088 ==> qwerty        6 bytes  10.1.2.4 port 50088 ==> ytrewq
-6 bytes  127.0.0.1 port 50088 ==> QWERTY        6 bytes  10.1.2.4 port 50088 ==> YTREWQ 
-7 bytes  127.0.0.1 port 50088 ==> ABCDEFG       7 bytes  10.1.2.4 port 50088 ==> GFEDCBA
+        sudo  ./test_3  control_IF   resend_IF    resend_IP_Src    resend_IP_Dest
+
+        >>localhost>>   sudo  ./test_3      lo           eth0         10.1.2.3         10.1.2.4
+        >>localhost>>   test/client_udp     127.0.0.1    1234
+                        input>  qwerty
+                                ...
+        >>localhost>>   test/server_udp     1234
+                                qwerty
+                                ...
+        >>10.1.2.4>>    test/server_udp     1234
+                                ytrewq
+                                ...
