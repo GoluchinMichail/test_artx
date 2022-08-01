@@ -1,45 +1,24 @@
-
-//  gcc  -o test_2  -lev    test_2.c   test_2.Thread.c
+//
+//      gcc  -o test_2 -lev  test_2.c
+//
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <unistd.h> 
+#include <errno.h>
+#include <arpa/inet.h>
+#include <ev.h>
+#include <pthread.h>
+#include <sys/un.h>
+#include <sys/socket.h>
+#include <stddef.h>
 
 #include "my_2.h"
-
-static _ParamThread Prm;
-
-static int socket_init (int iPort) {
-    struct sockaddr_in my_addr;
-    int listener;
-    if ((listener = socket(AF_INET, SOCK_STREAM, 0)) == -1) {
-        perror ("socket");
-        exit (1);
-    } else
-        printf ("SOCKET CREATE SUCCESS!\n");
-
-    int so_reuseaddr=1;
-    setsockopt (listener,SOL_SOCKET,SO_REUSEADDR,&so_reuseaddr,sizeof(so_reuseaddr));
-    memset (&my_addr, 0, sizeof(my_addr));
-    my_addr.sin_family = PF_INET;
-    my_addr.sin_port = htons(iPort);
-    my_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
- 
-    if (bind(listener, (struct sockaddr *) &my_addr, sizeof(struct sockaddr))== -1) {
-        perror ("bind error!\n");
-        exit (1);
-    } else
-        puts ("IP BIND SUCCESS,IP: 127.0.0.1");
- 
-    if (listen(listener, 1024) == -1) {
-        perror ("listen error!\n");
-        exit (1);
-    } else
-        printf ("LISTEN SUCCESS, PORT: %d\n\n", iPort);
-
-    return listener;
-}
+#define DEFAUL_UNIX_SOCKETS "/tmp/test2_"
 
 static char *strrev (char *p) {
     // исключить EOL-символы
     int length = strcspn (p, "\r\n");
-
     if (length) {
         int c, i, j;
         for (i=0, j=length - 1; i < j; i++, j--) {
@@ -52,52 +31,118 @@ static char *strrev (char *p) {
     return p;
 }
 
-static void CallBack_1 (EV_P_ ev_async *w, int revents) {
-    //printf ("CallBack_1  revents= %Xh\n", revents);
+static int sock_bind_listen (int iPort) {
+    struct sockaddr_in my_addr;
+    int listener;
 
-    if (!memcmp(Prm.acBuffer,"+++",3)) {
-        // puts ("STOPPED_1");
-        ev_async_stop (Prm.loop_1, &Prm.watcher_1);
-    } else {
-        strrev (Prm.acBuffer);
-        pthread_mutex_unlock (&Prm.LockBuffer);
-    }
-}
-
-int main (int argc, char** argv) {
-    if (argc < 2) {
-        printf ("\n"
-            "Usage:\n"
-            "   %s num_port\n"
-            "\n"
-            , argv[0]
-        );
+    if ((listener = socket(AF_INET, SOCK_STREAM, 0)) == -1) {
+        perror ("socket");
         return -1;
     }
 
-    // Initialize pthread
-    Prm.iSocket = socket_init (atoi(argv[1]));
+    int so_reuseaddr = 1;
+    setsockopt (listener,SOL_SOCKET,SO_REUSEADDR,&so_reuseaddr,sizeof(so_reuseaddr));
+    memset (&my_addr, 0, sizeof(my_addr));
+    my_addr.sin_family = PF_INET;
+    my_addr.sin_port = htons(iPort);
+    my_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
+ 
+    if (bind(listener, (struct sockaddr *) &my_addr, sizeof(struct sockaddr))== -1) {
+        perror ("bind error!\n");
+        return -2;
+    }
+ 
+    if (listen(listener, 1024) == -1) {
+        perror ("listen error!\n");
+        return -3;
+    } else
+        printf ("\nLISTEN SUCCESS, PORT: %d\n\n", iPort);
 
-    puts ("press Ctrl-C to exit ...\n");
+    return listener;
+}
 
-    pthread_mutex_init (&Prm.LockBuffer, NULL);
-    Prm.loop_1 = ev_loop_new (0);
-    ev_async_init (&Prm.watcher_1, CallBack_1);
-    ev_async_start (Prm.loop_1, &Prm.watcher_1);
-    pthread_t thread;
-    pthread_create (&thread, NULL, thread_2, &Prm);
+static void exchange_cb (struct ev_loop *evLoop, ev_io *w, int ) {
+    char Buffer [1024];
+    struct sockaddr_un  clnt_addr;
+    int caddrlen;
 
-    puts ("LOOP_1 >>>>>>>>>>>>>>>>>>>>>>");
-    // now wait for events to arrive
-    ev_loop (Prm.loop_1, 0);
-    puts ("LOOP_1 <<<<<<<<<<<<<<<<<<<<<<");
+    caddrlen = sizeof(clnt_addr);
+    int n = recvfrom (w->fd, Buffer, sizeof(Buffer), 0,
+        (struct sockaddr*)&clnt_addr, &caddrlen);
+    if (n > 0) {
+        Buffer[n] = 0;
+printf ("1< %s", Buffer);
+        strrev (Buffer);
+        int i = sendto (w->fd, Buffer, n, 0,
+            (struct sockaddr*)&clnt_addr, caddrlen);
+printf ("   1> %s", Buffer);
+    }
+}
 
-    puts ("Wait on threads for execution ...");
-    pthread_join (thread, NULL);
+static void accept_cb (struct ev_loop *evLoop, ev_io *w, int ) {
+    int iNewSock;
 
-    close (Prm.iSocket);
-    pthread_mutex_destroy (&Prm.LockBuffer);
+    if ((iNewSock = accept(w->fd, NULL, 0)) > 0) {
+        _Prm * prm = ev_userdata (evLoop);
+        prm->iSock = iNewSock;
+        // запуск потока для клиента
+        pthread_t thread;
+        pthread_create (&thread, NULL, thread_2, prm);
+    }
+}
 
-    puts ("\n... BY");
+int main (int argc ,char** argv) {
+    if (argc < 2) {
+Help:
+        printf ("\n"
+"Usage:\n"
+"   %s num_port [FileUnixSockets]\n"
+        "\n", argv[0]);
+        return 1;
+    }
+
+    int port = atoi (argv[1]);
+    if (! (port && port<=65535) ) {
+        puts ("\n-ERROR port\n");
+        goto Help;
+    }
+    char FileUnixSockets[] = DEFAUL_UNIX_SOCKETS;
+    if (argc > 2)
+        strncpy (FileUnixSockets, argv[2], sizeof(FileUnixSockets)-1);
+    
+    int iSockListen = sock_bind_listen (port);
+    if (iSockListen > 0) {
+
+        // printf ("iSockListen= %i\n", iSockListen);
+
+        _Prm Prm;
+        int iSockExchange =  GetUnixSock (FileUnixSockets, &Prm.unServerAddress);
+        if (iSockExchange < 0) {
+            printf("Невозможно создать сокет\n");
+            return (1);
+        }
+
+        struct ev_loop *evloop_1 = ev_loop_new (EVFLAG_AUTO);
+        ev_io w_Exchange;
+        ev_io_init (&w_Exchange, exchange_cb, iSockExchange, EV_READ);
+        ev_io_start (evloop_1, &w_Exchange); 
+        // добавить обработчик
+        ev_io *new_client = calloc (1, sizeof(*new_client));
+        ev_io_init (new_client, accept_cb, iSockListen, EV_READ);
+        ev_io_start (evloop_1, new_client);
+
+        puts ("press Ctrl-C to exit ...\n");
+
+        ev_set_userdata (evloop_1, &Prm);
+        ev_loop (evloop_1,0);
+
+        ev_loop_destroy (evloop_1);
+        close (iSockListen);
+        unlink (Prm.unServerAddress.sun_path);
+
+        puts ("... BY");
+    } else
+        puts ("-ERROR bind");
+
     return 0;
 }
