@@ -1,0 +1,4637 @@
+Received:   1   1905  PASS    words  600
+Processed:    1  1933
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received:   2   1987  PASS    words  601
+Processed:    2  2018
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received:   3   2076  PASS    words  602
+Processed:    3  2092
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received:   4   2133  PASS    words  603
+Received:   5   2181  PASS    words  604
+Processed:    4  2216
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received:   6   2286  PASS    words  605
+Received:   7   2354  PASS    words  606
+Processed:    5  2378
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received:   8   2436  PASS    words  607
+Processed:    6  2460
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received:   9   2497  PASS    words  608
+Processed:    7  2523
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received:  10   2583  PASS    words  609
+Received:  11   2644  PASS    words  610
+Processed:    8  2673
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received:  12   2749  PASS    words  611
+Received:  13   2809  PASS    words  612
+Processed:    9  2834
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received:  14   2893  PASS    words  613
+Processed:   10  2921
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received:  15   2983  PASS    words  614
+Received:  16   3044  PASS    words  615
+Processed:   11  3072
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received:  17   3132  PASS    words  616
+Processed:   12  3160
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received:  18   3200  PASS    words  617
+Received:  19   3237  PASS    words  618
+Processed:   13  3258
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received:  20   3322  PASS    words  619
+Processed:   14  3354
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received:  21   3416  PASS    words  620
+Received:  22   3477  PASS    words  621
+Processed:   15  3505
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received:  23   3567  PASS    words  622
+Processed:   16  3593
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received:  24   3654  PASS    words  623
+Received:  25   3716  PASS    words  624
+Processed:   17  3744
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received:  26   3806  PASS    words  625
+Processed:   18  3837
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received:  27   3898  PASS    words  626
+Received:  28   3960  PASS    words  627
+Processed:   19  3987
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received:  29   4049  PASS    words  628
+Processed:   20  4096
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received:  30   4160  PASS    words  629
+Received:  31   4222  PASS    words  630
+Processed:   21  4251
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received:  32   4312  PASS    words  631
+Processed:   22  4343
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received:  33   4405  PASS    words  632
+Received:  34   4467  PASS    words  633
+Processed:   23  4495
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received:  35   4557  PASS    words  634
+Processed:   24  4588
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received:  36   4650  PASS    words  635
+Received:  37   4711  PASS    words  636
+Processed:   25  4739
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received:  38   4801  PASS    words  637
+Processed:   26  4825
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received:  39   4890  PASS    words  638
+Received:  40   4952  PASS    words  639
+Processed:   27  4998
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received:  41   5128  PASS    words  640
+Processed:   28  5160
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received:  42   5222  PASS    words  641
+Received:  43   5283  PASS    words  642
+Processed:   29  5310
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received:  44   5370  PASS    words  643
+Processed:   30  5399
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received:  45   5461  PASS    words  644
+Received:  46   5526  PASS    words  645
+Received:  47   5609  PASS    words  646
+Processed:   47  5664
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received:  48   5726  PASS    words  647
+Processed:   48  5755
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received:  49   5817  PASS    words  648
+Received:  50   5883  PASS    words  649
+Processed:   49  5913
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received:  51   5977  PASS    words  650
+Processed:   50  6008
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received:  52   6070  PASS    words  651
+Received:  53   6131  PASS    words  652
+Processed:   51  6153
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received:  54   6213  PASS    words  653
+Processed:   52  6241
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received:  55   6304  PASS    words  654
+Received:  56   6365  PASS    words  655
+Processed:   53  6393
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received:  57   6455  PASS    words  656
+Processed:   54  6486
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received:  58   6547  PASS    words  657
+Received:  59   6610  PASS    words  658
+Processed:   55  6639
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received:  60   6701  PASS    words  659
+Processed:   56  6732
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received:  61   6793  PASS    words  660
+Received:  62   6855  PASS    words  661
+Processed:   57  6884
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received:  63   6946  PASS    words  662
+Processed:   58  6976
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received:  64   7039  PASS    words  663
+Received:  65   7103  PASS    words  664
+Processed:   59  7131
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received:  66   7194  PASS    words  665
+Processed:   60  7225
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received:  67   7287  PASS    words  666
+Received:  68   7349  PASS    words  667
+Processed:   61  7377
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received:  69   7440  PASS    words  668
+Processed:   62  7469
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received:  70   7535  PASS    words  669
+Received:  71   7602  PASS    words  670
+Processed:   63  7633
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received:  72   7670  PASS    words  671
+Processed:   64  7691
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received:  73   7720  PASS    words  672
+Received:  74   7774  PASS    words  673
+Processed:   65  7803
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received:  75   7840  PASS    words  674
+Processed:   66  7865
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received:  76   7895  PASS    words  675
+Received:  77   7917  PASS    words  676
+Processed:   67  7938
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received:  78   7965  PASS    words  677
+Processed:   68  7990
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received:  79   8050  PASS    words  678
+Received:  80   8090  PASS    words  679
+Processed:   69  8116
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received:  81   8224  PASS    words  680
+Processed:   70  8255
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received:  82   8318  PASS    words  681
+Received:  83   8381  PASS    words  682
+Processed:   71  8408
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received:  84   8470  PASS    words  683
+Processed:   72  8499
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received:  85   8561  PASS    words  684
+Received:  86   8622  PASS    words  685
+Processed:   73  8650
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received:  87   8712  PASS    words  686
+Processed:   74  8743
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received:  88   8806  PASS    words  687
+Received:  89   8868  PASS    words  688
+Processed:   75  8896
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received:  90   8958  PASS    words  689
+Processed:   76  8989
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received:  91   9051  PASS    words  690
+Received:  92   9092  PASS    words  691
+Received:  93   9173  PASS    words  692
+Processed:   93  9225
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received:  94   9290  PASS    words  693
+Processed:   94  9318
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received:  95   9380  PASS    words  694
+Processed:   95  9431
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received:  96   9507  PASS    words  695
+Received:  97   9567  PASS    words  696
+Processed:   96  9596
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received:  98   9658  PASS    words  697
+Received:  99   9718  PASS    words  698
+Processed:   97  9740
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 100   9799  PASS    words  699
+Processed:   98  9827
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 101   9889  PASS    words  700
+Processed:   99  9919
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 102   9981  PASS    words  701
+Received: 103   10043  PASS    words  702
+Processed:  100  10071
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 104   10133  PASS    words  703
+Received: 105   10194  PASS    words  704
+Processed:  101  10218
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 106   10277  PASS    words  705
+Processed:  102  10305
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 107   10370  PASS    words  706
+Received: 108   10433  PASS    words  707
+Processed:  103  10455
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 109   10514  PASS    words  708
+Processed:  104  10545
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 110   10607  PASS    words  709
+Received: 111   10668  PASS    words  710
+Processed:  105  10695
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 112   10757  PASS    words  711
+Processed:  106  10788
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 113   10827  PASS    words  712
+Received: 114   10888  PASS    words  713
+Processed:  107  10916
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 115   10981  PASS    words  714
+Processed:  108  11014
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 116   11076  PASS    words  715
+Received: 117   11137  PASS    words  716
+Processed:  109  11165
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 118   11227  PASS    words  717
+Processed:  110  11258
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 119   11320  PASS    words  718
+Received: 120   11383  PASS    words  719
+Processed:  111  11414
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 121   11536  PASS    words  720
+Processed:  112  11568
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 122   11601  PASS    words  721
+Received: 123   11661  PASS    words  722
+Processed:  113  11689
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 124   11752  PASS    words  723
+Processed:  114  11783
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 125   11845  PASS    words  724
+Received: 126   11921  PASS    words  725
+Processed:  115  11951
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 127   12013  PASS    words  726
+Processed:  116  12044
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 128   12107  PASS    words  727
+Received: 129   12168  PASS    words  728
+Processed:  117  12196
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 130   12258  PASS    words  729
+Processed:  118  12289
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 131   12352  PASS    words  730
+Received: 132   12418  PASS    words  731
+Processed:  119  12446
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 133   12509  PASS    words  732
+Processed:  120  12539
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 134   12601  PASS    words  733
+Received: 135   12666  PASS    words  734
+Processed:  121  12695
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 136   12757  PASS    words  735
+Processed:  122  12789
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 137   12851  PASS    words  736
+Received: 138   12912  PASS    words  737
+Received: 139   12992  PASS    words  738
+Processed:  139  13050
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 140   13113  PASS    words  739
+Processed:  140  13141
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 141   13204  PASS    words  740
+Received: 142   13267  PASS    words  741
+Processed:  141  13295
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 143   13358  PASS    words  742
+Processed:  142  13388
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 144   13451  PASS    words  743
+Received: 145   13515  PASS    words  744
+Processed:  143  13540
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 146   13573  PASS    words  745
+Processed:  144  13603
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 147   13674  PASS    words  746
+Received: 148   13708  PASS    words  747
+Processed:  145  13734
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 149   13767  PASS    words  748
+Processed:  146  13792
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 150   13856  PASS    words  749
+Received: 151   13916  PASS    words  750
+Processed:  147  13943
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 152   14004  PASS    words  751
+Processed:  148  14035
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 153   14097  PASS    words  752
+Received: 154   14158  PASS    words  753
+Processed:  149  14186
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 155   14249  PASS    words  754
+Processed:  150  14270
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 156   14335  PASS    words  755
+Received: 157   14374  PASS    words  756
+Processed:  151  14402
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 158   14466  PASS    words  757
+Processed:  152  14496
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 159   14567  PASS    words  758
+Received: 160   14688  PASS    words  759
+Processed:  153  14716
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 161   14779  PASS    words  760
+Processed:  154  14807
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 162   14870  PASS    words  761
+Received: 163   14933  PASS    words  762
+Processed:  155  14961
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 164   15024  PASS    words  763
+Processed:  156  15052
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 165   15117  PASS    words  764
+Received: 166   15181  PASS    words  765
+Processed:  157  15209
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 167   15272  PASS    words  766
+Processed:  158  15302
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 168   15366  PASS    words  767
+Received: 169   15429  PASS    words  768
+Processed:  159  15454
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 170   15519  PASS    words  769
+Processed:  160  15551
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 171   15613  PASS    words  770
+Received: 172   15681  PASS    words  771
+Processed:  161  15711
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 173   15775  PASS    words  772
+Processed:  162  15803
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 174   15841  PASS    words  773
+Received: 175   15901  PASS    words  774
+Processed:  163  15925
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 176   15988  PASS    words  775
+Processed:  164  16010
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 177   16073  PASS    words  776
+Received: 178   16136  PASS    words  777
+Processed:  165  16166
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 179   16233  PASS    words  778
+Processed:  166  16263
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 180   16326  PASS    words  779
+Received: 181   16388  PASS    words  780
+Processed:  167  16416
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 182   16480  PASS    words  781
+Processed:  168  16510
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 183   16573  PASS    words  782
+Received: 184   16635  PASS    words  783
+Received: 185   16715  PASS    words  784
+Processed:  185  16769
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 186   16833  PASS    words  785
+Processed:  186  16863
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 187   16927  PASS    words  786
+Processed:  187  16952
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 188   17015  PASS    words  787
+Received: 189   17078  PASS    words  788
+Processed:  188  17107
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 190   17172  PASS    words  789
+Received: 191   17233  PASS    words  790
+Processed:  189  17255
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 192   17317  PASS    words  791
+Processed:  190  17345
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 193   17408  PASS    words  792
+Received: 194   17469  PASS    words  793
+Processed:  191  17497
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 195   17560  PASS    words  794
+Processed:  192  17591
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 196   17652  PASS    words  795
+Received: 197   17718  PASS    words  796
+Processed:  193  17749
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 198   17798  PASS    words  797
+Processed:  194  17829
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 199   17954  PASS    words  798
+Received: 200   18019  PASS    words  799
+Processed:  195  18048
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 201   18112  PASS    words  800
+Processed:  196  18142
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 202   18204  PASS    words  801
+Received: 203   18267  PASS    words  802
+Processed:  197  18294
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 204   18357  PASS    words  803
+Processed:  198  18403
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 205   18463  PASS    words  804
+Received: 206   18543  PASS    words  805
+Processed:  199  18571
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 207   18634  PASS    words  806
+Processed:  200  18660
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 208   18722  PASS    words  807
+Received: 209   18784  PASS    words  808
+Processed:  201  18812
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 210   18878  PASS    words  809
+Processed:  202  18912
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 211   18974  PASS    words  810
+Received: 212   19036  PASS    words  811
+Processed:  203  19064
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 213   19127  PASS    words  812
+Processed:  204  19158
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 214   19220  PASS    words  813
+Received: 215   19281  PASS    words  814
+Processed:  205  19310
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 216   19372  PASS    words  815
+Processed:  206  19403
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 217   19466  PASS    words  816
+Received: 218   19551  PASS    words  817
+Processed:  207  19579
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 219   19641  PASS    words  818
+Processed:  208  19671
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 220   19738  PASS    words  819
+Received: 221   19804  PASS    words  820
+Processed:  209  19832
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 222   19895  PASS    words  821
+Processed:  210  19927
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 223   19989  PASS    words  822
+Received: 224   20050  PASS    words  823
+Processed:  211  20078
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 225   20141  PASS    words  824
+Processed:  212  20172
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 226   20234  PASS    words  825
+Received: 227   20296  PASS    words  826
+Processed:  213  20323
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 228   20386  PASS    words  827
+Processed:  214  20417
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 229   20479  PASS    words  828
+Received: 230   20541  PASS    words  829
+Received: 231   20593  PASS    words  830
+Processed:  231  20616
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 232   20679  PASS    words  831
+Processed:  232  20710
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 233   20772  PASS    words  832
+Received: 234   20834  PASS    words  833
+Processed:  233  20861
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 235   20924  PASS    words  834
+Processed:  234  20953
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 236   21017  PASS    words  835
+Received: 237   21079  PASS    words  836
+Processed:  235  21108
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 238   21170  PASS    words  837
+Processed:  236  21201
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 239   21321  PASS    words  838
+Received: 240   21382  PASS    words  839
+Processed:  237  21410
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 241   21474  PASS    words  840
+Processed:  238  21500
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 242   21564  PASS    words  841
+Received: 243   21626  PASS    words  842
+Processed:  239  21654
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 244   21717  PASS    words  843
+Processed:  240  21748
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 245   21811  PASS    words  844
+Received: 246   21873  PASS    words  845
+Processed:  241  21901
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 247   21968  PASS    words  846
+Processed:  242  22000
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 248   22063  PASS    words  847
+Received: 249   22125  PASS    words  848
+Processed:  243  22154
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 250   22216  PASS    words  849
+Processed:  244  22253
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 251   22321  PASS    words  850
+Received: 252   22385  PASS    words  851
+Processed:  245  22414
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 253   22479  PASS    words  852
+Processed:  246  22510
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 254   22600  PASS    words  853
+Received: 255   22661  PASS    words  854
+Processed:  247  22687
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 256   22751  PASS    words  855
+Processed:  248  22781
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 257   22844  PASS    words  856
+Received: 258   22906  PASS    words  857
+Processed:  249  22935
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 259   22998  PASS    words  858
+Processed:  250  23028
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 260   23091  PASS    words  859
+Received: 261   23154  PASS    words  860
+Processed:  251  23181
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 262   23248  PASS    words  861
+Processed:  252  23280
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 263   23346  PASS    words  862
+Received: 264   23408  PASS    words  863
+Processed:  253  23437
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 265   23501  PASS    words  864
+Processed:  254  23531
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 266   23593  PASS    words  865
+Received: 267   23656  PASS    words  866
+Processed:  255  23684
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 268   23749  PASS    words  867
+Processed:  256  23779
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 269   23843  PASS    words  868
+Received: 270   23877  PASS    words  869
+Processed:  257  23904
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 271   23973  PASS    words  870
+Processed:  258  24004
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 272   24068  PASS    words  871
+Received: 273   24131  PASS    words  872
+Processed:  259  24159
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 274   24224  PASS    words  873
+Processed:  260  24249
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 275   24312  PASS    words  874
+Received: 276   24374  PASS    words  875
+Received: 277   24456  PASS    words  876
+Processed:  277  24515
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 278   24579  PASS    words  877
+Processed:  278  24669
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 279   24733  PASS    words  878
+Received: 280   24796  PASS    words  879
+Processed:  279  24819
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 281   24881  PASS    words  880
+Processed:  280  24911
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 282   24974  PASS    words  881
+Received: 283   25038  PASS    words  882
+Processed:  281  25059
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 284   25120  PASS    words  883
+Processed:  282  25149
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 285   25213  PASS    words  884
+Received: 286   25277  PASS    words  885
+Processed:  283  25299
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 287   25361  PASS    words  886
+Processed:  284  25392
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 288   25455  PASS    words  887
+Received: 289   25517  PASS    words  888
+Processed:  285  25539
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 290   25575  PASS    words  889
+Processed:  286  25607
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 291   25671  PASS    words  890
+Received: 292   25733  PASS    words  891
+Processed:  287  25764
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 293   25828  PASS    words  892
+Processed:  288  25853
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 294   25916  PASS    words  893
+Received: 295   25979  PASS    words  894
+Processed:  289  26008
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 296   26071  PASS    words  895
+Processed:  290  26102
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 297   26169  PASS    words  896
+Received: 298   26231  PASS    words  897
+Processed:  291  26259
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 299   26323  PASS    words  898
+Processed:  292  26351
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 300   26414  PASS    words  899
+Received: 301   26477  PASS    words  900
+Processed:  293  26505
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 302   26570  PASS    words  901
+Processed:  294  26601
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 303   26664  PASS    words  902
+Received: 304   26730  PASS    words  903
+Processed:  295  26761
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 305   26824  PASS    words  904
+Processed:  296  26853
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 306   26918  PASS    words  905
+Received: 307   26980  PASS    words  906
+Processed:  297  27021
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 308   27084  PASS    words  907
+Processed:  298  27112
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 309   27176  PASS    words  908
+Received: 310   27238  PASS    words  909
+Processed:  299  27267
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 311   27330  PASS    words  910
+Processed:  300  27361
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 312   27424  PASS    words  911
+Received: 313   27487  PASS    words  912
+Processed:  301  27513
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 314   27576  PASS    words  913
+Processed:  302  27606
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 315   27670  PASS    words  914
+Received: 316   27711  PASS    words  915
+Processed:  303  27731
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 317   27791  PASS    words  916
+Processed:  304  27880
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 318   27943  PASS    words  917
+Received: 319   28006  PASS    words  918
+Processed:  305  28034
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 320   28070  PASS    words  919
+Processed:  306  28102
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 321   28169  PASS    words  920
+Received: 322   28232  PASS    words  921
+Received: 323   28313  PASS    words  922
+Processed:  323  28371
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 324   28434  PASS    words  923
+Processed:  324  28462
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 325   28526  PASS    words  924
+Processed:  325  28552
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 326   28613  PASS    words  925
+Received: 327   28680  PASS    words  926
+Processed:  326  28712
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 328   28777  PASS    words  927
+Received: 329   28840  PASS    words  928
+Processed:  327  28862
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 330   28924  PASS    words  929
+Processed:  328  28955
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 331   29019  PASS    words  930
+Processed:  329  29068
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 332   29101  PASS    words  931
+Received: 333   29161  PASS    words  932
+Processed:  330  29189
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 334   29253  PASS    words  933
+Received: 335   29315  PASS    words  934
+Processed:  331  29343
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 336   29407  PASS    words  935
+Processed:  332  29435
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 337   29476  PASS    words  936
+Received: 338   29539  PASS    words  937
+Processed:  333  29567
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 339   29631  PASS    words  938
+Processed:  334  29662
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 340   29725  PASS    words  939
+Received: 341   29788  PASS    words  940
+Processed:  335  29816
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 342   29880  PASS    words  941
+Processed:  336  29912
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 343   29976  PASS    words  942
+Received: 344   30039  PASS    words  943
+Processed:  337  30067
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 345   30130  PASS    words  944
+Processed:  338  30161
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 346   30225  PASS    words  945
+Received: 347   30292  PASS    words  946
+Processed:  339  30324
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 348   30389  PASS    words  947
+Processed:  340  30419
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 349   30483  PASS    words  948
+Received: 350   30545  PASS    words  949
+Processed:  341  30573
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 351   30637  PASS    words  950
+Processed:  342  30667
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 352   30731  PASS    words  951
+Received: 353   30793  PASS    words  952
+Processed:  343  30822
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 354   30885  PASS    words  953
+Processed:  344  30916
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 355   30979  PASS    words  954
+Received: 356   31040  PASS    words  955
+Processed:  345  31069
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 357   31193  PASS    words  956
+Processed:  346  31226
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 358   31290  PASS    words  957
+Received: 359   31354  PASS    words  958
+Processed:  347  31380
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 360   31444  PASS    words  959
+Processed:  348  31475
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 361   31536  PASS    words  960
+Received: 362   31598  PASS    words  961
+Processed:  349  31627
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 363   31691  PASS    words  962
+Processed:  350  31721
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 364   31785  PASS    words  963
+Received: 365   31848  PASS    words  964
+Processed:  351  31875
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 366   31938  PASS    words  965
+Processed:  352  31969
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 367   32032  PASS    words  966
+Received: 368   32096  PASS    words  967
+Received: 369   32179  PASS    words  968
+Processed:  369  32239
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 370   32303  PASS    words  969
+Processed:  370  32333
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 371   32403  PASS    words  970
+Received: 372   32471  PASS    words  971
+Processed:  371  32502
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 373   32567  PASS    words  972
+Processed:  372  32597
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 374   32662  PASS    words  973
+Received: 375   32726  PASS    words  974
+Processed:  373  32754
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 376   32820  PASS    words  975
+Processed:  374  32850
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 377   32915  PASS    words  976
+Received: 378   32979  PASS    words  977
+Processed:  375  33007
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 379   33072  PASS    words  978
+Processed:  376  33100
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 380   33166  PASS    words  979
+Received: 381   33231  PASS    words  980
+Processed:  377  33259
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 382   33324  PASS    words  981
+Processed:  378  33355
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 383   33420  PASS    words  982
+Received: 384   33463  PASS    words  983
+Processed:  379  33491
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 385   33534  PASS    words  984
+Processed:  380  33559
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 386   33625  PASS    words  985
+Received: 387   33689  PASS    words  986
+Processed:  381  33718
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 388   33780  PASS    words  987
+Processed:  382  33809
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 389   33875  PASS    words  988
+Received: 390   33939  PASS    words  989
+Processed:  383  33968
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 391   34033  PASS    words  990
+Processed:  384  34063
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 392   34128  PASS    words  991
+Received: 393   34191  PASS    words  992
+Processed:  385  34219
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 394   34283  PASS    words  993
+Processed:  386  34313
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 395   34377  PASS    words  994
+Received: 396   34441  PASS    words  995
+Processed:  387  34528
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 397   34596  PASS    words  996
+Processed:  388  34629
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 398   34694  PASS    words  997
+Received: 399   34761  PASS    words  998
+Processed:  389  34790
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 400   34855  PASS    words  999
+Processed:  390  34884
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 401   34949  PASS    words 1000
+Received: 402   35013  PASS    words 1001
+Processed:  391  35041
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 403   35106  PASS    words 1002
+Processed:  392  35136
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 404   35200  PASS    words 1003
+Received: 405   35263  PASS    words 1004
+Processed:  393  35290
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 406   35354  PASS    words 1005
+Processed:  394  35384
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 407   35448  PASS    words 1006
+Received: 408   35511  PASS    words 1007
+Processed:  395  35539
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 409   35604  PASS    words 1008
+Processed:  396  35628
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 410   35670  PASS    words 1009
+Received: 411   35733  PASS    words 1010
+Processed:  397  35758
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 412   35822  PASS    words 1011
+Processed:  398  35853
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 413   35916  PASS    words 1012
+Received: 414   35979  PASS    words 1013
+Received: 415   36061  PASS    words 1014
+Processed:  415  36115
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 416   36180  PASS    words 1015
+Processed:  416  36208
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 417   36273  PASS    words 1016
+Received: 418   36338  PASS    words 1017
+Processed:  417  36364
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 419   36429  PASS    words 1018
+Processed:  418  36459
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 420   36520  PASS    words 1019
+Received: 421   36588  PASS    words 1020
+Processed:  419  36611
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 422   36652  PASS    words 1021
+Processed:  420  36684
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 423   36732  PASS    words 1022
+Received: 424   36795  PASS    words 1023
+Processed:  421  36823
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 425   36889  PASS    words 1024
+Processed:  422  36919
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 426   36984  PASS    words 1025
+Received: 427   37048  PASS    words 1026
+Processed:  423  37070
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 428   37134  PASS    words 1027
+Processed:  424  37164
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 429   37230  PASS    words 1028
+Received: 430   37266  PASS    words 1029
+Processed:  425  37292
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 431   37327  PASS    words 1030
+Processed:  426  37356
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 432   37422  PASS    words 1031
+Received: 433   37486  PASS    words 1032
+Processed:  427  37514
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 434   37579  PASS    words 1033
+Processed:  428  37610
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 435   37674  PASS    words 1034
+Received: 436   37786  PASS    words 1035
+Processed:  429  37814
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 437   37878  PASS    words 1036
+Processed:  430  37906
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 438   37972  PASS    words 1037
+Received: 439   38035  PASS    words 1038
+Processed:  431  38063
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 440   38128  PASS    words 1039
+Processed:  432  38158
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 441   38223  PASS    words 1040
+Received: 442   38286  PASS    words 1041
+Processed:  433  38314
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 443   38378  PASS    words 1042
+Processed:  434  38406
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 444   38473  PASS    words 1043
+Received: 445   38535  PASS    words 1044
+Processed:  435  38560
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 446   38624  PASS    words 1045
+Processed:  436  38651
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 447   38718  PASS    words 1046
+Received: 448   38782  PASS    words 1047
+Processed:  437  38810
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 449   38875  PASS    words 1048
+Processed:  438  38905
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 450   38969  PASS    words 1049
+Received: 451   39034  PASS    words 1050
+Processed:  439  39061
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 452   39127  PASS    words 1051
+Processed:  440  39157
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 453   39226  PASS    words 1052
+Received: 454   39289  PASS    words 1053
+Processed:  441  39318
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 455   39383  PASS    words 1054
+Processed:  442  39411
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 456   39475  PASS    words 1055
+Received: 457   39540  PASS    words 1056
+Processed:  443  39568
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 458   39633  PASS    words 1057
+Processed:  444  39663
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 459   39727  PASS    words 1058
+Received: 460   39791  PASS    words 1059
+Received: 461   39872  PASS    words 1060
+Processed:  461  39930
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 462   39995  PASS    words 1061
+Processed:  462  40023
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 463   40092  PASS    words 1062
+Received: 464   40156  PASS    words 1063
+Processed:  463  40178
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 465   40244  PASS    words 1064
+Processed:  464  40275
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 466   40341  PASS    words 1065
+Received: 467   40406  PASS    words 1066
+Processed:  465  40426
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 468   40488  PASS    words 1067
+Processed:  466  40519
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 469   40584  PASS    words 1068
+Received: 470   40649  PASS    words 1069
+Processed:  467  40677
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 471   40745  PASS    words 1070
+Processed:  468  40777
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 472   40842  PASS    words 1071
+Received: 473   40905  PASS    words 1072
+Processed:  469  40933
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 474   41002  PASS    words 1073
+Processed:  470  41031
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 475   41158  PASS    words 1074
+Received: 476   41222  PASS    words 1075
+Processed:  471  41251
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 477   41316  PASS    words 1076
+Processed:  472  41346
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 478   41412  PASS    words 1077
+Received: 479   41475  PASS    words 1078
+Processed:  473  41502
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 480   41567  PASS    words 1079
+Processed:  474  41598
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 481   41635  PASS    words 1080
+Received: 482   41672  PASS    words 1081
+Processed:  475  41692
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 483   41721  PASS    words 1082
+Processed:  476  41735
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 484   41761  PASS    words 1083
+Received: 485   41794  PASS    words 1084
+Processed:  477  41812
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 486   41846  PASS    words 1085
+Processed:  478  41864
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 487   41893  PASS    words 1086
+Received: 488   41918  PASS    words 1087
+Processed:  479  41934
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 489   41995  PASS    words 1088
+Processed:  480  42023
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 490   42088  PASS    words 1089
+Received: 491   42152  PASS    words 1090
+Processed:  481  42180
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 492   42245  PASS    words 1091
+Processed:  482  42276
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 493   42341  PASS    words 1092
+Received: 494   42405  PASS    words 1093
+Processed:  483  42433
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 495   42500  PASS    words 1094
+Processed:  484  42530
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 496   42595  PASS    words 1095
+Received: 497   42665  PASS    words 1096
+Processed:  485  42694
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 498   42760  PASS    words 1097
+Processed:  486  42790
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 499   42855  PASS    words 1098
+Received: 500   42919  PASS    words 1099
+Processed:  487  42947
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 501   43013  PASS    words 1100
+Processed:  488  43043
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 502   43109  PASS    words 1101
+Received: 503   43173  PASS    words 1102
+Processed:  489  43199
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 504   43265  PASS    words 1103
+Processed:  490  43296
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 505   43341  PASS    words 1104
+Received: 506   43404  PASS    words 1105
+Received: 507   43488  PASS    words 1106
+Processed:  507  43543
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 508   43608  PASS    words 1107
+Processed:  508  43636
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 509   43702  PASS    words 1108
+Processed:  509  43728
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 510   43793  PASS    words 1109
+Received: 511   43857  PASS    words 1110
+Processed:  510  43885
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 512   43951  PASS    words 1111
+Received: 513   44014  PASS    words 1112
+Processed:  511  44037
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 514   44100  PASS    words 1113
+Processed:  512  44130
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 515   44262  PASS    words 1114
+Processed:  513  44313
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 516   44359  PASS    words 1115
+Received: 517   44419  PASS    words 1116
+Processed:  514  44445
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 518   44511  PASS    words 1117
+Received: 519   44574  PASS    words 1118
+Processed:  515  44596
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 520   44658  PASS    words 1119
+Processed:  516  44685
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 521   44749  PASS    words 1120
+Received: 522   44812  PASS    words 1121
+Processed:  517  44834
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 523   44896  PASS    words 1122
+Processed:  518  44924
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 524   44990  PASS    words 1123
+Received: 525   45053  PASS    words 1124
+Processed:  519  45081
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 526   45146  PASS    words 1125
+Processed:  520  45174
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 527   45239  PASS    words 1126
+Received: 528   45276  PASS    words 1127
+Processed:  521  45305
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 529   45371  PASS    words 1128
+Processed:  522  45397
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 530   45461  PASS    words 1129
+Received: 531   45524  PASS    words 1130
+Processed:  523  45551
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 532   45616  PASS    words 1131
+Processed:  524  45644
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 533   45710  PASS    words 1132
+Received: 534   45773  PASS    words 1133
+Processed:  525  45801
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 535   45866  PASS    words 1134
+Processed:  526  45896
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 536   45962  PASS    words 1135
+Received: 537   45998  PASS    words 1136
+Processed:  527  46024
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 538   46090  PASS    words 1137
+Processed:  528  46121
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 539   46189  PASS    words 1138
+Received: 540   46253  PASS    words 1139
+Processed:  529  46281
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 541   46346  PASS    words 1140
+Processed:  530  46376
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 542   46441  PASS    words 1141
+Received: 543   46505  PASS    words 1142
+Processed:  531  46533
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 544   46598  PASS    words 1143
+Processed:  532  46628
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 545   46693  PASS    words 1144
+Received: 546   46756  PASS    words 1145
+Processed:  533  46784
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 547   46851  PASS    words 1146
+Processed:  534  46883
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 548   46948  PASS    words 1147
+Received: 549   47011  PASS    words 1148
+Processed:  535  47035
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 550   47101  PASS    words 1149
+Processed:  536  47131
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 551   47196  PASS    words 1150
+Received: 552   47260  PASS    words 1151
+Received: 553   47341  PASS    words 1152
+Processed:  553  47399
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 554   47530  PASS    words 1153
+Processed:  554  47562
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 555   47629  PASS    words 1154
+Received: 556   47693  PASS    words 1155
+Processed:  555  47720
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 557   47787  PASS    words 1156
+Processed:  556  47808
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 558   47869  PASS    words 1157
+Received: 559   47937  PASS    words 1158
+Processed:  557  47965
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 560   48031  PASS    words 1159
+Processed:  558  48060
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 561   48124  PASS    words 1160
+Received: 562   48188  PASS    words 1161
+Processed:  559  48216
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 563   48282  PASS    words 1162
+Processed:  560  48312
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 564   48377  PASS    words 1163
+Received: 565   48442  PASS    words 1164
+Processed:  561  48470
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 566   48536  PASS    words 1165
+Processed:  562  48566
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 567   48606  PASS    words 1166
+Received: 568   48671  PASS    words 1167
+Processed:  563  48699
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 569   48767  PASS    words 1168
+Processed:  564  48799
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 570   48866  PASS    words 1169
+Received: 571   48935  PASS    words 1170
+Processed:  565  48966
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 572   49032  PASS    words 1171
+Processed:  566  49063
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 573   49128  PASS    words 1172
+Received: 574   49192  PASS    words 1173
+Processed:  567  49220
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 575   49285  PASS    words 1174
+Processed:  568  49316
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 576   49382  PASS    words 1175
+Received: 577   49446  PASS    words 1176
+Processed:  569  49471
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 578   49535  PASS    words 1177
+Processed:  570  49566
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 579   49631  PASS    words 1178
+Received: 580   49701  PASS    words 1179
+Processed:  571  49731
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 581   49797  PASS    words 1180
+Processed:  572  49828
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 582   49893  PASS    words 1181
+Received: 583   49958  PASS    words 1182
+Processed:  573  49984
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 584   50049  PASS    words 1183
+Processed:  574  50080
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 585   50144  PASS    words 1184
+Received: 586   50208  PASS    words 1185
+Processed:  575  50236
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 587   50302  PASS    words 1186
+Processed:  576  50332
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 588   50398  PASS    words 1187
+Received: 589   50463  PASS    words 1188
+Processed:  577  50491
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 590   50556  PASS    words 1189
+Processed:  578  50587
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 591   50652  PASS    words 1190
+Received: 592   50693  PASS    words 1191
+Processed:  579  50723
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 593   50847  PASS    words 1192
+Processed:  580  50877
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 594   50943  PASS    words 1193
+Received: 595   51007  PASS    words 1194
+Processed:  581  51035
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 596   51101  PASS    words 1195
+Processed:  582  51131
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 597   51225  PASS    words 1196
+Received: 598   51290  PASS    words 1197
+Received: 599   51375  PASS    words 1198
+Processed:  599  51430
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 600   51495  PASS    words 1199
+Processed:  600  51523
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 601   51590  PASS    words 1200
+Received: 602   51655  PASS    words 1201
+Processed:  601  51684
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 603   51751  PASS    words 1202
+Processed:  602  51782
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 604   51848  PASS    words 1203
+Received: 605   51913  PASS    words 1204
+Processed:  603  51934
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 606   51998  PASS    words 1205
+Processed:  604  52019
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 607   52086  PASS    words 1206
+Received: 608   52150  PASS    words 1207
+Processed:  605  52177
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 609   52221  PASS    words 1208
+Processed:  606  52241
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 610   52280  PASS    words 1209
+Received: 611   52345  PASS    words 1210
+Processed:  607  52373
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 612   52441  PASS    words 1211
+Processed:  608  52471
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 613   52538  PASS    words 1212
+Received: 614   52603  PASS    words 1213
+Processed:  609  52631
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 615   52698  PASS    words 1214
+Processed:  610  52728
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 616   52795  PASS    words 1215
+Received: 617   52860  PASS    words 1216
+Processed:  611  52888
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 618   52955  PASS    words 1217
+Processed:  612  52983
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 619   53050  PASS    words 1218
+Received: 620   53116  PASS    words 1219
+Processed:  613  53144
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 621   53214  PASS    words 1220
+Processed:  614  53249
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 622   53319  PASS    words 1221
+Received: 623   53385  PASS    words 1222
+Processed:  615  53414
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 624   53482  PASS    words 1223
+Processed:  616  53513
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 625   53578  PASS    words 1224
+Received: 626   53643  PASS    words 1225
+Processed:  617  53671
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 627   53736  PASS    words 1226
+Processed:  618  53766
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 628   53832  PASS    words 1227
+Received: 629   53896  PASS    words 1228
+Processed:  619  53922
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 630   53987  PASS    words 1229
+Processed:  620  54017
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 631   54083  PASS    words 1230
+Received: 632   54147  PASS    words 1231
+Processed:  621  54175
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 633   54298  PASS    words 1232
+Processed:  622  54328
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 634   54372  PASS    words 1233
+Received: 635   54437  PASS    words 1234
+Processed:  623  54465
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 636   54531  PASS    words 1235
+Processed:  624  54561
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 637   54627  PASS    words 1236
+Received: 638   54692  PASS    words 1237
+Processed:  625  54720
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 639   54786  PASS    words 1238
+Processed:  626  54816
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 640   54881  PASS    words 1239
+Received: 641   54946  PASS    words 1240
+Processed:  627  54974
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 642   55040  PASS    words 1241
+Processed:  628  55070
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 643   55135  PASS    words 1242
+Received: 644   55200  PASS    words 1243
+Received: 645   55286  PASS    words 1244
+Processed:  645  55344
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 646   55410  PASS    words 1245
+Processed:  646  55438
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 647   55477  PASS    words 1246
+Received: 648   55542  PASS    words 1247
+Processed:  647  55570
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 649   55636  PASS    words 1248
+Processed:  648  55666
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 650   55731  PASS    words 1249
+Received: 651   55795  PASS    words 1250
+Processed:  649  55817
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 652   55879  PASS    words 1251
+Processed:  650  55909
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 653   55974  PASS    words 1252
+Received: 654   56037  PASS    words 1253
+Processed:  651  56065
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 655   56129  PASS    words 1254
+Processed:  652  56158
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 656   56225  PASS    words 1255
+Received: 657   56290  PASS    words 1256
+Processed:  653  56314
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 658   56377  PASS    words 1257
+Processed:  654  56408
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 659   56475  PASS    words 1258
+Received: 660   56538  PASS    words 1259
+Processed:  655  56565
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 661   56631  PASS    words 1260
+Processed:  656  56657
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 662   56722  PASS    words 1261
+Received: 663   56787  PASS    words 1262
+Processed:  657  56814
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 664   56879  PASS    words 1263
+Processed:  658  56908
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 665   56974  PASS    words 1264
+Received: 666   57038  PASS    words 1265
+Processed:  659  57067
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 667   57133  PASS    words 1266
+Processed:  660  57160
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 668   57225  PASS    words 1267
+Received: 669   57290  PASS    words 1268
+Processed:  661  57317
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 670   57382  PASS    words 1269
+Processed:  662  57417
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 671   57486  PASS    words 1270
+Received: 672   57551  PASS    words 1271
+Processed:  663  57640
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 673   57706  PASS    words 1272
+Processed:  664  57737
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 674   57804  PASS    words 1273
+Received: 675   57871  PASS    words 1274
+Processed:  665  57900
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 676   57966  PASS    words 1275
+Processed:  666  57995
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 677   58062  PASS    words 1276
+Received: 678   58127  PASS    words 1277
+Processed:  667  58155
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 679   58220  PASS    words 1278
+Processed:  668  58249
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 680   58315  PASS    words 1279
+Received: 681   58379  PASS    words 1280
+Processed:  669  58406
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 682   58471  PASS    words 1281
+Processed:  670  58502
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 683   58568  PASS    words 1282
+Received: 684   58633  PASS    words 1283
+Processed:  671  58661
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 685   58728  PASS    words 1284
+Processed:  672  58782
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 686   58838  PASS    words 1285
+Received: 687   58887  PASS    words 1286
+Processed:  673  58917
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 688   58985  PASS    words 1287
+Processed:  674  59013
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 689   59080  PASS    words 1288
+Received: 690   59144  PASS    words 1289
+Received: 691   59227  PASS    words 1290
+Processed:  691  59281
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 692   59346  PASS    words 1291
+Processed:  692  59374
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 693   59440  PASS    words 1292
+Received: 694   59506  PASS    words 1293
+Processed:  693  59532
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 695   59610  PASS    words 1294
+Processed:  694  59638
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 696   59704  PASS    words 1295
+Received: 697   59739  PASS    words 1296
+Processed:  695  59755
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 698   59826  PASS    words 1297
+Processed:  696  59858
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 699   59926  PASS    words 1298
+Received: 700   59990  PASS    words 1299
+Processed:  697  60018
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 701   60085  PASS    words 1300
+Processed:  698  60116
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 702   60182  PASS    words 1301
+Received: 703   60222  PASS    words 1302
+Processed:  699  60244
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 704   60309  PASS    words 1303
+Processed:  700  60339
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 705   60407  PASS    words 1304
+Received: 706   60472  PASS    words 1305
+Processed:  701  60500
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 707   60568  PASS    words 1306
+Processed:  702  60591
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 708   60658  PASS    words 1307
+Received: 709   60723  PASS    words 1308
+Processed:  703  60751
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 710   60817  PASS    words 1309
+Processed:  704  60848
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 711   60963  PASS    words 1310
+Received: 712   61027  PASS    words 1311
+Processed:  705  61053
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 713   61125  PASS    words 1312
+Processed:  706  61155
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 714   61222  PASS    words 1313
+Received: 715   61289  PASS    words 1314
+Processed:  707  61317
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 716   61384  PASS    words 1315
+Processed:  708  61414
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 717   61481  PASS    words 1316
+Received: 718   61547  PASS    words 1317
+Processed:  709  61574
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 719   61643  PASS    words 1318
+Processed:  710  61673
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 720   61741  PASS    words 1319
+Received: 721   61811  PASS    words 1320
+Processed:  711  61842
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 722   61909  PASS    words 1321
+Processed:  712  61939
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 723   62006  PASS    words 1322
+Received: 724   62073  PASS    words 1323
+Processed:  713  62100
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 725   62167  PASS    words 1324
+Processed:  714  62196
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 726   62263  PASS    words 1325
+Received: 727   62329  PASS    words 1326
+Processed:  715  62352
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 728   62424  PASS    words 1327
+Processed:  716  62456
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 729   62523  PASS    words 1328
+Received: 730   62589  PASS    words 1329
+Processed:  717  62617
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 731   62685  PASS    words 1330
+Processed:  718  62715
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 732   62782  PASS    words 1331
+Received: 733   62847  PASS    words 1332
+Processed:  719  62874
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 734   62941  PASS    words 1333
+Processed:  720  62971
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 735   63038  PASS    words 1334
+Received: 736   63103  PASS    words 1335
+Received: 737   63187  PASS    words 1336
+Processed:  737  63241
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 738   63307  PASS    words 1337
+Processed:  738  63335
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 739   63402  PASS    words 1338
+Received: 740   63472  PASS    words 1339
+Processed:  739  63502
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 741   63569  PASS    words 1340
+Processed:  740  63597
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 742   63664  PASS    words 1341
+Received: 743   63731  PASS    words 1342
+Processed:  741  63751
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 744   63816  PASS    words 1343
+Processed:  742  63846
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 745   63913  PASS    words 1344
+Received: 746   63979  PASS    words 1345
+Processed:  743  64006
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 747   64074  PASS    words 1346
+Processed:  744  64102
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 748   64173  PASS    words 1347
+Received: 749   64242  PASS    words 1348
+Processed:  745  64271
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 750   64340  PASS    words 1349
+Processed:  746  64371
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 751   64498  PASS    words 1350
+Received: 752   64565  PASS    words 1351
+Processed:  747  64593
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 753   64660  PASS    words 1352
+Processed:  748  64690
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 754   64757  PASS    words 1353
+Received: 755   64823  PASS    words 1354
+Processed:  749  64851
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 756   64917  PASS    words 1355
+Processed:  750  64947
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 757   65014  PASS    words 1356
+Received: 758   65080  PASS    words 1357
+Processed:  751  65108
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 759   65175  PASS    words 1358
+Processed:  752  65205
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 760   65274  PASS    words 1359
+Received: 761   65339  PASS    words 1360
+Processed:  753  65367
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 762   65435  PASS    words 1361
+Processed:  754  65465
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 763   65532  PASS    words 1362
+Received: 764   65598  PASS    words 1363
+Processed:  755  65626
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 765   65694  PASS    words 1364
+Processed:  756  65722
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 766   65791  PASS    words 1365
+Received: 767   65857  PASS    words 1366
+Processed:  757  65883
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 768   65950  PASS    words 1367
+Processed:  758  65980
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 769   66048  PASS    words 1368
+Received: 770   66115  PASS    words 1369
+Processed:  759  66143
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 771   66212  PASS    words 1370
+Processed:  760  66244
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 772   66312  PASS    words 1371
+Received: 773   66378  PASS    words 1372
+Processed:  761  66406
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 774   66473  PASS    words 1373
+Processed:  762  66503
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 775   66568  PASS    words 1374
+Received: 776   66634  PASS    words 1375
+Processed:  763  66661
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 777   66728  PASS    words 1376
+Processed:  764  66758
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 778   66824  PASS    words 1377
+Received: 779   66890  PASS    words 1378
+Processed:  765  66918
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 780   66985  PASS    words 1379
+Processed:  766  67028
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 781   67098  PASS    words 1380
+Received: 782   67163  PASS    words 1381
+Received: 783   67247  PASS    words 1382
+Processed:  783  67306
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 784   67373  PASS    words 1383
+Processed:  784  67401
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 785   67468  PASS    words 1384
+Received: 786   67533  PASS    words 1385
+Processed:  785  67561
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 787   67628  PASS    words 1386
+Processed:  786  67658
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 788   67725  PASS    words 1387
+Received: 789   67791  PASS    words 1388
+Processed:  787  67811
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 790   67876  PASS    words 1389
+Processed:  788  67962
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 791   68002  PASS    words 1390
+Received: 792   68067  PASS    words 1391
+Processed:  789  68097
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 793   68166  PASS    words 1392
+Processed:  790  68197
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 794   68264  PASS    words 1393
+Received: 795   68329  PASS    words 1394
+Processed:  791  68357
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 796   68424  PASS    words 1395
+Processed:  792  68455
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 797   68522  PASS    words 1396
+Received: 798   68592  PASS    words 1397
+Processed:  793  68622
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 799   68690  PASS    words 1398
+Processed:  794  68720
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 800   68787  PASS    words 1399
+Received: 801   68853  PASS    words 1400
+Processed:  795  68881
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 802   68948  PASS    words 1401
+Processed:  796  68978
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 803   69016  PASS    words 1402
+Received: 804   69083  PASS    words 1403
+Processed:  797  69113
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 805   69180  PASS    words 1404
+Processed:  798  69210
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 806   69278  PASS    words 1405
+Received: 807   69345  PASS    words 1406
+Processed:  799  69373
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 808   69440  PASS    words 1407
+Processed:  800  69471
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 809   69538  PASS    words 1408
+Received: 810   69603  PASS    words 1409
+Processed:  801  69631
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 811   69699  PASS    words 1410
+Processed:  802  69729
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 812   69795  PASS    words 1411
+Received: 813   69865  PASS    words 1412
+Processed:  803  69892
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 814   69960  PASS    words 1413
+Processed:  804  69992
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 815   70058  PASS    words 1414
+Received: 816   70138  PASS    words 1415
+Processed:  805  70166
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 817   70233  PASS    words 1416
+Processed:  806  70263
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 818   70330  PASS    words 1417
+Received: 819   70398  PASS    words 1418
+Processed:  807  70426
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 820   70494  PASS    words 1419
+Processed:  808  70525
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 821   70564  PASS    words 1420
+Received: 822   70631  PASS    words 1421
+Processed:  809  70661
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 823   70729  PASS    words 1422
+Processed:  810  70757
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 824   70824  PASS    words 1423
+Received: 825   70867  PASS    words 1424
+Processed:  811  70900
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 826   70967  PASS    words 1425
+Processed:  812  71009
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 827   71075  PASS    words 1426
+Received: 828   71140  PASS    words 1427
+Received: 829   71224  PASS    words 1428
+Processed:  829  71279
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 830   71405  PASS    words 1429
+Processed:  830  71433
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 831   71500  PASS    words 1430
+Received: 832   71566  PASS    words 1431
+Processed:  831  71593
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 833   71660  PASS    words 1432
+Processed:  832  71691
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 834   71739  PASS    words 1433
+Received: 835   71804  PASS    words 1434
+Processed:  833  71827
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 836   71893  PASS    words 1435
+Processed:  834  71923
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 837   71990  PASS    words 1436
+Received: 838   72056  PASS    words 1437
+Processed:  835  72085
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 839   72152  PASS    words 1438
+Processed:  836  72182
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 840   72222  PASS    words 1439
+Received: 841   72286  PASS    words 1440
+Processed:  837  72314
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 842   72382  PASS    words 1441
+Processed:  838  72412
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 843   72480  PASS    words 1442
+Received: 844   72546  PASS    words 1443
+Processed:  839  72575
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 845   72640  PASS    words 1444
+Processed:  840  72662
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 846   72733  PASS    words 1445
+Received: 847   72799  PASS    words 1446
+Processed:  841  72827
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 848   72900  PASS    words 1447
+Processed:  842  72933
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 849   73001  PASS    words 1448
+Received: 850   73067  PASS    words 1449
+Processed:  843  73095
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 851   73163  PASS    words 1450
+Processed:  844  73193
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 852   73260  PASS    words 1451
+Received: 853   73327  PASS    words 1452
+Processed:  845  73355
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 854   73423  PASS    words 1453
+Processed:  846  73452
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 855   73520  PASS    words 1454
+Received: 856   73588  PASS    words 1455
+Processed:  847  73611
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 857   73681  PASS    words 1456
+Processed:  848  73712
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 858   73779  PASS    words 1457
+Received: 859   73846  PASS    words 1458
+Processed:  849  73872
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 860   73941  PASS    words 1459
+Processed:  850  73972
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 861   74040  PASS    words 1460
+Received: 862   74107  PASS    words 1461
+Processed:  851  74135
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 863   74203  PASS    words 1462
+Processed:  852  74233
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 864   74301  PASS    words 1463
+Received: 865   74365  PASS    words 1464
+Processed:  853  74393
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 866   74461  PASS    words 1465
+Processed:  854  74484
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 867   74553  PASS    words 1466
+Received: 868   74618  PASS    words 1467
+Processed:  855  74646
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 869   74770  PASS    words 1468
+Processed:  856  74800
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 870   74868  PASS    words 1469
+Received: 871   74933  PASS    words 1470
+Processed:  857  74984
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 872   75056  PASS    words 1471
+Processed:  858  75087
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 873   75154  PASS    words 1472
+Received: 874   75220  PASS    words 1473
+Received: 875   75303  PASS    words 1474
+Processed:  875  75361
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 876   75432  PASS    words 1475
+Processed:  876  75463
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 877   75531  PASS    words 1476
+Received: 878   75599  PASS    words 1477
+Processed:  877  75628
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 879   75697  PASS    words 1478
+Processed:  878  75725
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 880   75806  PASS    words 1479
+Received: 881   75872  PASS    words 1480
+Processed:  879  75900
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 882   75968  PASS    words 1481
+Processed:  880  75998
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 883   76066  PASS    words 1482
+Received: 884   76133  PASS    words 1483
+Processed:  881  76161
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 885   76228  PASS    words 1484
+Processed:  882  76257
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 886   76325  PASS    words 1485
+Received: 887   76396  PASS    words 1486
+Processed:  883  76426
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 888   76497  PASS    words 1487
+Processed:  884  76528
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 889   76595  PASS    words 1488
+Received: 890   76660  PASS    words 1489
+Processed:  885  76687
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 891   76728  PASS    words 1490
+Processed:  886  76745
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 892   76777  PASS    words 1491
+Received: 893   76805  PASS    words 1492
+Processed:  887  76817
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 894   76846  PASS    words 1493
+Processed:  888  76869
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 895   76897  PASS    words 1494
+Received: 896   76925  PASS    words 1495
+Processed:  889  76936
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 897   76965  PASS    words 1496
+Processed:  890  76984
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 898   77053  PASS    words 1497
+Received: 899   77120  PASS    words 1498
+Processed:  891  77148
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 900   77216  PASS    words 1499
+Processed:  892  77244
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 901   77311  PASS    words 1500
+Received: 902   77378  PASS    words 1501
+Processed:  893  77406
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 903   77473  PASS    words 1502
+Processed:  894  77504
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 904   77570  PASS    words 1503
+Received: 905   77636  PASS    words 1504
+Processed:  895  77661
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 906   77729  PASS    words 1505
+Processed:  896  77759
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 907   77826  PASS    words 1506
+Received: 908   77892  PASS    words 1507
+Processed:  897  77919
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 909   78043  PASS    words 1508
+Processed:  898  78073
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 910   78143  PASS    words 1509
+Received: 911   78212  PASS    words 1510
+Processed:  899  78239
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 912   78307  PASS    words 1511
+Processed:  900  78338
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 913   78405  PASS    words 1512
+Received: 914   78470  PASS    words 1513
+Processed:  901  78498
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 915   78566  PASS    words 1514
+Processed:  902  78596
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 916   78663  PASS    words 1515
+Received: 917   78729  PASS    words 1516
+Processed:  903  78757
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 918   78824  PASS    words 1517
+Processed:  904  78851
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 919   78921  PASS    words 1518
+Received: 920   78987  PASS    words 1519
+Received: 921   79072  PASS    words 1520
+Processed:  921  79128
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 922   79200  PASS    words 1521
+Processed:  922  79233
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 923   79301  PASS    words 1522
+Received: 924   79365  PASS    words 1523
+Processed:  923  79393
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 925   79462  PASS    words 1524
+Processed:  924  79488
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 926   79555  PASS    words 1525
+Received: 927   79621  PASS    words 1526
+Processed:  925  79649
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 928   79717  PASS    words 1527
+Processed:  926  79747
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 929   79815  PASS    words 1528
+Received: 930   79880  PASS    words 1529
+Processed:  927  79908
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 931   79977  PASS    words 1530
+Processed:  928  80007
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 932   80075  PASS    words 1531
+Received: 933   80141  PASS    words 1532
+Processed:  929  80169
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 934   80237  PASS    words 1533
+Processed:  930  80267
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 935   80334  PASS    words 1534
+Received: 936   80401  PASS    words 1535
+Processed:  931  80428
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 937   80496  PASS    words 1536
+Processed:  932  80526
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 938   80593  PASS    words 1537
+Received: 939   80660  PASS    words 1538
+Processed:  933  80687
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 940   80759  PASS    words 1539
+Processed:  934  80789
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 941   80858  PASS    words 1540
+Received: 942   80925  PASS    words 1541
+Processed:  935  80953
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 943   81022  PASS    words 1542
+Processed:  936  81052
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 944   81119  PASS    words 1543
+Received: 945   81186  PASS    words 1544
+Processed:  937  81206
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 946   81273  PASS    words 1545
+Processed:  938  81301
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 947   81368  PASS    words 1546
+Received: 948   81477  PASS    words 1547
+Processed:  939  81507
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 949   81576  PASS    words 1548
+Processed:  940  81605
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 950   81673  PASS    words 1549
+Received: 951   81739  PASS    words 1550
+Processed:  941  81762
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 952   81832  PASS    words 1551
+Processed:  942  81864
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 953   81932  PASS    words 1552
+Received: 954   81998  PASS    words 1553
+Processed:  943  82026
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 955   82094  PASS    words 1554
+Processed:  944  82124
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 956   82193  PASS    words 1555
+Received: 957   82259  PASS    words 1556
+Processed:  945  82287
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 958   82355  PASS    words 1557
+Processed:  946  82385
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 959   82452  PASS    words 1558
+Received: 960   82518  PASS    words 1559
+Processed:  947  82546
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 961   82616  PASS    words 1560
+Processed:  948  82645
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 962   82712  PASS    words 1561
+Received: 963   82781  PASS    words 1562
+Processed:  949  82810
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 964   82878  PASS    words 1563
+Processed:  950  82908
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 965   82975  PASS    words 1564
+Received: 966   83042  PASS    words 1565
+Received: 967   83128  PASS    words 1566
+Processed:  967  83182
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 968   83225  PASS    words 1567
+Processed:  968  83251
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 969   83319  PASS    words 1568
+Processed:  969  83340
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 970   83406  PASS    words 1569
+Received: 971   83472  PASS    words 1570
+Processed:  970  83502
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 972   83574  PASS    words 1571
+Received: 973   83644  PASS    words 1572
+Processed:  971  83666
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 974   83734  PASS    words 1573
+Processed:  972  83764
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 975   83832  PASS    words 1574
+Processed:  973  83862
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 976   83900  PASS    words 1575
+Received: 977   83965  PASS    words 1576
+Processed:  974  83995
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 978   84066  PASS    words 1577
+Received: 979   84133  PASS    words 1578
+Processed:  975  84155
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 980   84219  PASS    words 1579
+Processed:  976  84248
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 981   84316  PASS    words 1580
+Received: 982   84383  PASS    words 1581
+Processed:  977  84443
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 983   84512  PASS    words 1582
+Processed:  978  84541
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 984   84611  PASS    words 1583
+Received: 985   84678  PASS    words 1584
+Processed:  979  84706
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 986   84775  PASS    words 1585
+Processed:  980  84806
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 987   84927  PASS    words 1586
+Received: 988   84995  PASS    words 1587
+Processed:  981  85024
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 989   85092  PASS    words 1588
+Processed:  982  85122
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 990   85190  PASS    words 1589
+Received: 991   85256  PASS    words 1590
+Processed:  983  85285
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 992   85353  PASS    words 1591
+Processed:  984  85383
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 993   85441  PASS    words 1592
+Received: 994   85492  PASS    words 1593
+Processed:  985  85523
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 995   85595  PASS    words 1594
+Processed:  986  85623
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 996   85693  PASS    words 1595
+Received: 997   85761  PASS    words 1596
+Processed:  987  85790
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 998   85862  PASS    words 1597
+Processed:  988  85895
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 999   85964  PASS    words 1598
+Received: 1000   86032  PASS    words 1599
+Processed:  989  86060
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Processed:  990  86091
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Processed:  991  86118
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Processed:  992  86159
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Processed:  993  86189
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Processed:  994  86220
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Processed:  995  86251
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Processed:  996  86282
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Processed:  997  86313
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Processed:  998  86344
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Processed:  999  86364
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Processed: 1000  86398
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1001   86488  PASS    words  600
+Processed: 1001  86548
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1002   86611  PASS    words  601
+Processed: 1002  86639
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1003   86701  PASS    words  602
+Processed: 1003  86729
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1004   86789  PASS    words  603
+Received: 1005   86850  PASS    words  604
+Processed: 1004  86878
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1006   86940  PASS    words  605
+Received: 1007   87001  PASS    words  606
+Processed: 1005  87023
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1008   87070  PASS    words  607
+Processed: 1006  87119
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1009   87183  PASS    words  608
+Processed: 1007  87231
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1010   87265  PASS    words  609
+Received: 1011   87324  PASS    words  610
+Processed: 1008  87352
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1012   87414  PASS    words  611
+Received: 1013   87475  PASS    words  612
+Processed: 1009  87502
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1014   87563  PASS    words  613
+Processed: 1010  87591
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1015   87650  PASS    words  614
+Received: 1016   87773  PASS    words  615
+Processed: 1011  87795
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1017   87853  PASS    words  616
+Processed: 1012  87884
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1018   87945  PASS    words  617
+Received: 1019   88008  PASS    words  618
+Processed: 1013  88039
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1020   88100  PASS    words  619
+Processed: 1014  88129
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1021   88190  PASS    words  620
+Received: 1022   88251  PASS    words  621
+Processed: 1015  88278
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1023   88338  PASS    words  622
+Processed: 1016  88368
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1024   88427  PASS    words  623
+Received: 1025   88488  PASS    words  624
+Processed: 1017  88516
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1026   88577  PASS    words  625
+Processed: 1018  88607
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1027   88668  PASS    words  626
+Received: 1028   88729  PASS    words  627
+Processed: 1019  88757
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1029   88819  PASS    words  628
+Processed: 1020  88846
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1030   88914  PASS    words  629
+Received: 1031   88975  PASS    words  630
+Processed: 1021  89004
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1032   89065  PASS    words  631
+Processed: 1022  89093
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1033   89155  PASS    words  632
+Received: 1034   89216  PASS    words  633
+Processed: 1023  89244
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1035   89305  PASS    words  634
+Processed: 1024  89334
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1036   89395  PASS    words  635
+Received: 1037   89456  PASS    words  636
+Processed: 1025  89484
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1038   89547  PASS    words  637
+Processed: 1026  89578
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1039   89639  PASS    words  638
+Received: 1040   89674  PASS    words  639
+Processed: 1027  89702
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1041   89766  PASS    words  640
+Processed: 1028  89797
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1042   89858  PASS    words  641
+Received: 1043   89919  PASS    words  642
+Processed: 1029  89944
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1044   90005  PASS    words  643
+Processed: 1030  90036
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1045   90097  PASS    words  644
+Received: 1046   90157  PASS    words  645
+Received: 1047   90237  PASS    words  646
+Processed: 1047  90291
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1048   90355  PASS    words  647
+Processed: 1048  90386
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1049   90451  PASS    words  648
+Processed: 1049  90478
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1050   90541  PASS    words  649
+Received: 1051   90605  PASS    words  650
+Processed: 1050  90638
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1052   90700  PASS    words  651
+Received: 1053   90760  PASS    words  652
+Processed: 1051  90783
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1054   90842  PASS    words  653
+Processed: 1052  90871
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1055   90992  PASS    words  654
+Received: 1056   91053  PASS    words  655
+Processed: 1053  91080
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1057   91142  PASS    words  656
+Processed: 1054  91172
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1058   91233  PASS    words  657
+Received: 1059   91294  PASS    words  658
+Processed: 1055  91321
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1060   91383  PASS    words  659
+Processed: 1056  91413
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1061   91474  PASS    words  660
+Received: 1062   91539  PASS    words  661
+Processed: 1057  91569
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1063   91631  PASS    words  662
+Processed: 1058  91673
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1064   91734  PASS    words  663
+Received: 1065   91794  PASS    words  664
+Processed: 1059  91822
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1066   91884  PASS    words  665
+Processed: 1060  91915
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1067   91976  PASS    words  666
+Received: 1068   92036  PASS    words  667
+Processed: 1061  92065
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1069   92127  PASS    words  668
+Processed: 1062  92157
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1070   92218  PASS    words  669
+Received: 1071   92279  PASS    words  670
+Processed: 1063  92307
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1072   92376  PASS    words  671
+Processed: 1064  92410
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1073   92473  PASS    words  672
+Received: 1074   92534  PASS    words  673
+Processed: 1065  92562
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1075   92625  PASS    words  674
+Processed: 1066  92652
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1076   92713  PASS    words  675
+Received: 1077   92774  PASS    words  676
+Processed: 1067  92802
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1078   92864  PASS    words  677
+Processed: 1068  92895
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1079   92956  PASS    words  678
+Received: 1080   93018  PASS    words  679
+Processed: 1069  93066
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1081   93128  PASS    words  680
+Processed: 1070  93158
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1082   93220  PASS    words  681
+Received: 1083   93285  PASS    words  682
+Processed: 1071  93312
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1084   93373  PASS    words  683
+Processed: 1072  93403
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1085   93465  PASS    words  684
+Received: 1086   93526  PASS    words  685
+Processed: 1073  93554
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1087   93616  PASS    words  686
+Processed: 1074  93646
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1088   93708  PASS    words  687
+Received: 1089   93769  PASS    words  688
+Processed: 1075  93797
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1090   93859  PASS    words  689
+Processed: 1076  93889
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1091   93951  PASS    words  690
+Received: 1092   94011  PASS    words  691
+Received: 1093   94096  PASS    words  692
+Processed: 1093  94141
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1094   94257  PASS    words  693
+Processed: 1094  94286
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1095   94347  PASS    words  694
+Received: 1096   94409  PASS    words  695
+Processed: 1095  94437
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1097   94499  PASS    words  696
+Processed: 1096  94529
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1098   94594  PASS    words  697
+Received: 1099   94657  PASS    words  698
+Processed: 1097  94681
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1100   94743  PASS    words  699
+Processed: 1098  94773
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1101   94837  PASS    words  700
+Received: 1102   94924  PASS    words  701
+Processed: 1099  94953
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1103   95016  PASS    words  702
+Processed: 1100  95046
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1104   95112  PASS    words  703
+Received: 1105   95174  PASS    words  704
+Processed: 1101  95201
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1106   95264  PASS    words  705
+Processed: 1102  95295
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1107   95357  PASS    words  706
+Received: 1108   95420  PASS    words  707
+Processed: 1103  95448
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1109   95511  PASS    words  708
+Processed: 1104  95541
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1110   95604  PASS    words  709
+Received: 1111   95666  PASS    words  710
+Processed: 1105  95694
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1112   95733  PASS    words  711
+Processed: 1106  95764
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1113   95827  PASS    words  712
+Received: 1114   95887  PASS    words  713
+Processed: 1107  95909
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1115   95974  PASS    words  714
+Processed: 1108  96006
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1116   96069  PASS    words  715
+Received: 1117   96131  PASS    words  716
+Processed: 1109  96159
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1118   96196  PASS    words  717
+Processed: 1110  96226
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1119   96256  PASS    words  718
+Received: 1120   96292  PASS    words  719
+Processed: 1111  96315
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1121   96343  PASS    words  720
+Processed: 1112  96363
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1122   96398  PASS    words  721
+Received: 1123   96429  PASS    words  722
+Processed: 1113  96452
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1124   96482  PASS    words  723
+Processed: 1114  96508
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1125   96569  PASS    words  724
+Received: 1126   96630  PASS    words  725
+Processed: 1115  96660
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1127   96722  PASS    words  726
+Processed: 1116  96750
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1128   96811  PASS    words  727
+Received: 1129   96873  PASS    words  728
+Processed: 1117  96898
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1130   96958  PASS    words  729
+Processed: 1118  96989
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1131   97051  PASS    words  730
+Received: 1132   97112  PASS    words  731
+Processed: 1119  97141
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1133   97263  PASS    words  732
+Processed: 1120  97294
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1134   97356  PASS    words  733
+Received: 1135   97418  PASS    words  734
+Processed: 1121  97446
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1136   97509  PASS    words  735
+Processed: 1122  97541
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1137   97604  PASS    words  736
+Received: 1138   97666  PASS    words  737
+Received: 1139   97746  PASS    words  738
+Processed: 1139  97804
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1140   97882  PASS    words  739
+Processed: 1140  97911
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1141   97975  PASS    words  740
+Processed: 1141  98002
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1142   98064  PASS    words  741
+Received: 1143   98127  PASS    words  742
+Processed: 1142  98158
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1144   98220  PASS    words  743
+Received: 1145   98282  PASS    words  744
+Processed: 1143  98303
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1146   98368  PASS    words  745
+Processed: 1144  98399
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1147   98462  PASS    words  746
+Processed: 1145  98488
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1148   98520  PASS    words  747
+Received: 1149   98583  PASS    words  748
+Processed: 1146  98615
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1150   98679  PASS    words  749
+Received: 1151   98742  PASS    words  750
+Processed: 1147  98769
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1152   98831  PASS    words  751
+Processed: 1148  98861
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1153   98924  PASS    words  752
+Received: 1154   98987  PASS    words  753
+Processed: 1149  99007
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1155   99041  PASS    words  754
+Processed: 1150  99071
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1156   99136  PASS    words  755
+Received: 1157   99201  PASS    words  756
+Processed: 1151  99230
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1158   99293  PASS    words  757
+Processed: 1152  99323
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1159   99386  PASS    words  758
+Received: 1160   99448  PASS    words  759
+Processed: 1153  99477
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1161   99539  PASS    words  760
+Processed: 1154  99564
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1162   99627  PASS    words  761
+Received: 1163   99690  PASS    words  762
+Processed: 1155  99718
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1164   99781  PASS    words  763
+Processed: 1156  99812
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1165   99874  PASS    words  764
+Received: 1166   99937  PASS    words  765
+Processed: 1157  99965
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1167   100028  PASS    words  766
+Processed: 1158  100056
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1168   100123  PASS    words  767
+Received: 1169   100186  PASS    words  768
+Processed: 1159  100214
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1170   100276  PASS    words  769
+Processed: 1160  100307
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1171   100369  PASS    words  770
+Received: 1172   100493  PASS    words  771
+Processed: 1161  100524
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1173   100587  PASS    words  772
+Processed: 1162  100617
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1174   100679  PASS    words  773
+Received: 1175   100743  PASS    words  774
+Processed: 1163  100771
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1176   100835  PASS    words  775
+Processed: 1164  100865
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1177   100928  PASS    words  776
+Received: 1178   100991  PASS    words  777
+Processed: 1165  101022
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1179   101086  PASS    words  778
+Processed: 1166  101116
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1180   101178  PASS    words  779
+Received: 1181   101240  PASS    words  780
+Processed: 1167  101266
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1182   101328  PASS    words  781
+Processed: 1168  101359
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1183   101422  PASS    words  782
+Received: 1184   101501  PASS    words  783
+Received: 1185   101581  PASS    words  784
+Processed: 1185  101635
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1186   101698  PASS    words  785
+Processed: 1186  101727
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1187   101790  PASS    words  786
+Received: 1188   101852  PASS    words  787
+Processed: 1187  101874
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1189   101940  PASS    words  788
+Processed: 1188  101970
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1190   102033  PASS    words  789
+Received: 1191   102095  PASS    words  790
+Processed: 1189  102117
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1192   102179  PASS    words  791
+Processed: 1190  102207
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1193   102270  PASS    words  792
+Received: 1194   102333  PASS    words  793
+Processed: 1191  102361
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1195   102423  PASS    words  794
+Processed: 1192  102454
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1196   102515  PASS    words  795
+Received: 1197   102577  PASS    words  796
+Processed: 1193  102604
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1198   102666  PASS    words  797
+Processed: 1194  102696
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1199   102762  PASS    words  798
+Received: 1200   102845  PASS    words  799
+Processed: 1195  102876
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1201   102939  PASS    words  800
+Processed: 1196  102969
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1202   103032  PASS    words  801
+Received: 1203   103094  PASS    words  802
+Processed: 1197  103122
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1204   103184  PASS    words  803
+Processed: 1198  103212
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1205   103275  PASS    words  804
+Received: 1206   103337  PASS    words  805
+Processed: 1199  103365
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1207   103428  PASS    words  806
+Processed: 1200  103458
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1208   103500  PASS    words  807
+Received: 1209   103564  PASS    words  808
+Processed: 1201  103594
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1210   103718  PASS    words  809
+Processed: 1202  103752
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1211   103813  PASS    words  810
+Received: 1212   103876  PASS    words  811
+Processed: 1203  103905
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1213   103968  PASS    words  812
+Processed: 1204  103998
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1214   104062  PASS    words  813
+Received: 1215   104125  PASS    words  814
+Processed: 1205  104153
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1216   104217  PASS    words  815
+Processed: 1206  104247
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1217   104309  PASS    words  816
+Received: 1218   104371  PASS    words  817
+Processed: 1207  104399
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1219   104462  PASS    words  818
+Processed: 1208  104492
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1220   104554  PASS    words  819
+Received: 1221   104606  PASS    words  820
+Processed: 1209  104631
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1222   104703  PASS    words  821
+Processed: 1210  104735
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1223   104798  PASS    words  822
+Received: 1224   104861  PASS    words  823
+Processed: 1211  104883
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1225   104944  PASS    words  824
+Processed: 1212  104973
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1226   105035  PASS    words  825
+Received: 1227   105097  PASS    words  826
+Processed: 1213  105124
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1228   105186  PASS    words  827
+Processed: 1214  105217
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1229   105277  PASS    words  828
+Received: 1230   105340  PASS    words  829
+Received: 1231   105425  PASS    words  830
+Processed: 1231  105463
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1232   105539  PASS    words  831
+Processed: 1232  105565
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1233   105627  PASS    words  832
+Processed: 1233  105653
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1234   105715  PASS    words  833
+Received: 1235   105777  PASS    words  834
+Processed: 1234  105807
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1236   105872  PASS    words  835
+Received: 1237   105935  PASS    words  836
+Processed: 1235  105955
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1238   106016  PASS    words  837
+Processed: 1236  106046
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1239   106108  PASS    words  838
+Processed: 1237  106134
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1240   106196  PASS    words  839
+Received: 1241   106258  PASS    words  840
+Processed: 1238  106281
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1242   106345  PASS    words  841
+Received: 1243   106408  PASS    words  842
+Processed: 1239  106436
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1244   106499  PASS    words  843
+Processed: 1240  106527
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1245   106561  PASS    words  844
+Received: 1246   106623  PASS    words  845
+Processed: 1241  106644
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1247   106705  PASS    words  846
+Processed: 1242  106733
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1248   106811  PASS    words  847
+Received: 1249   106918  PASS    words  848
+Processed: 1243  106947
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1250   107010  PASS    words  849
+Processed: 1244  107041
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1251   107104  PASS    words  850
+Received: 1252   107166  PASS    words  851
+Processed: 1245  107194
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1253   107261  PASS    words  852
+Processed: 1246  107293
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1254   107355  PASS    words  853
+Received: 1255   107418  PASS    words  854
+Processed: 1247  107446
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1256   107509  PASS    words  855
+Processed: 1248  107540
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1257   107602  PASS    words  856
+Received: 1258   107665  PASS    words  857
+Processed: 1249  107694
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1259   107757  PASS    words  858
+Processed: 1250  107787
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1260   107849  PASS    words  859
+Received: 1261   107911  PASS    words  860
+Processed: 1251  107937
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1262   107976  PASS    words  861
+Processed: 1252  108006
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1263   108070  PASS    words  862
+Received: 1264   108134  PASS    words  863
+Processed: 1253  108178
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1265   108240  PASS    words  864
+Processed: 1254  108271
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1266   108333  PASS    words  865
+Received: 1267   108397  PASS    words  866
+Processed: 1255  108425
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1268   108488  PASS    words  867
+Processed: 1256  108518
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1269   108581  PASS    words  868
+Received: 1270   108643  PASS    words  869
+Processed: 1257  108671
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1271   108734  PASS    words  870
+Processed: 1258  108764
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1272   108831  PASS    words  871
+Received: 1273   108895  PASS    words  872
+Processed: 1259  108921
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1274   108987  PASS    words  873
+Processed: 1260  109020
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1275   109083  PASS    words  874
+Received: 1276   109144  PASS    words  875
+Received: 1277   109225  PASS    words  876
+Processed: 1277  109284
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1278   109347  PASS    words  877
+Processed: 1278  109375
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1279   109439  PASS    words  878
+Received: 1280   109502  PASS    words  879
+Processed: 1279  109530
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1281   109594  PASS    words  880
+Processed: 1280  109624
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1282   109687  PASS    words  881
+Received: 1283   109749  PASS    words  882
+Processed: 1281  109771
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1284   109832  PASS    words  883
+Processed: 1282  109862
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1285   109928  PASS    words  884
+Received: 1286   109992  PASS    words  885
+Processed: 1283  110020
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1287   110145  PASS    words  886
+Processed: 1284  110175
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1288   110238  PASS    words  887
+Received: 1289   110300  PASS    words  888
+Processed: 1285  110328
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1290   110391  PASS    words  889
+Processed: 1286  110422
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1291   110485  PASS    words  890
+Received: 1292   110547  PASS    words  891
+Processed: 1287  110575
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1293   110639  PASS    words  892
+Processed: 1288  110669
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1294   110732  PASS    words  893
+Received: 1295   110799  PASS    words  894
+Processed: 1289  110829
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1296   110893  PASS    words  895
+Processed: 1290  110924
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1297   110987  PASS    words  896
+Received: 1298   111049  PASS    words  897
+Processed: 1291  111077
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1299   111145  PASS    words  898
+Processed: 1292  111177
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1300   111242  PASS    words  899
+Received: 1301   111305  PASS    words  900
+Processed: 1293  111333
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1302   111398  PASS    words  901
+Processed: 1294  111429
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1303   111493  PASS    words  902
+Received: 1304   111557  PASS    words  903
+Processed: 1295  111586
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1305   111650  PASS    words  904
+Processed: 1296  111681
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1306   111749  PASS    words  905
+Received: 1307   111813  PASS    words  906
+Processed: 1297  111838
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1308   111901  PASS    words  907
+Processed: 1298  111932
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1309   111996  PASS    words  908
+Received: 1310   112059  PASS    words  909
+Processed: 1299  112088
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1311   112152  PASS    words  910
+Processed: 1300  112182
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1312   112246  PASS    words  911
+Received: 1313   112310  PASS    words  912
+Processed: 1301  112336
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1314   112400  PASS    words  913
+Processed: 1302  112431
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1315   112499  PASS    words  914
+Received: 1316   112534  PASS    words  915
+Processed: 1303  112563
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1317   112631  PASS    words  916
+Processed: 1304  112662
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1318   112726  PASS    words  917
+Received: 1319   112790  PASS    words  918
+Processed: 1305  112818
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1320   112883  PASS    words  919
+Processed: 1306  112913
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1321   112977  PASS    words  920
+Received: 1322   113040  PASS    words  921
+Received: 1323   113126  PASS    words  922
+Processed: 1323  113182
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1324   113245  PASS    words  923
+Processed: 1324  113273
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1325   113336  PASS    words  924
+Processed: 1325  113421
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1326   113483  PASS    words  925
+Received: 1327   113552  PASS    words  926
+Processed: 1326  113583
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1328   113648  PASS    words  927
+Received: 1329   113712  PASS    words  928
+Processed: 1327  113734
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1330   113798  PASS    words  929
+Processed: 1328  113828
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1331   113892  PASS    words  930
+Received: 1332   113956  PASS    words  931
+Processed: 1329  113985
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1333   114049  PASS    words  932
+Processed: 1330  114080
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1334   114145  PASS    words  933
+Received: 1335   114209  PASS    words  934
+Processed: 1331  114236
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1336   114301  PASS    words  935
+Processed: 1332  114332
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1337   114396  PASS    words  936
+Received: 1338   114464  PASS    words  937
+Processed: 1333  114494
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1339   114559  PASS    words  938
+Processed: 1334  114589
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1340   114653  PASS    words  939
+Received: 1341   114717  PASS    words  940
+Processed: 1335  114745
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1342   114810  PASS    words  941
+Processed: 1336  114840
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1343   114904  PASS    words  942
+Received: 1344   114968  PASS    words  943
+Processed: 1337  114997
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1345   115060  PASS    words  944
+Processed: 1338  115086
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1346   115150  PASS    words  945
+Received: 1347   115213  PASS    words  946
+Processed: 1339  115241
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1348   115282  PASS    words  947
+Processed: 1340  115314
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1349   115384  PASS    words  948
+Received: 1350   115448  PASS    words  949
+Processed: 1341  115477
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1351   115541  PASS    words  950
+Processed: 1342  115571
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1352   115635  PASS    words  951
+Received: 1353   115697  PASS    words  952
+Processed: 1343  115726
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1354   115789  PASS    words  953
+Processed: 1344  115817
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1355   115881  PASS    words  954
+Received: 1356   115943  PASS    words  955
+Processed: 1345  115972
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1357   116036  PASS    words  956
+Processed: 1346  116066
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1358   116129  PASS    words  957
+Received: 1359   116170  PASS    words  958
+Processed: 1347  116198
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1360   116263  PASS    words  959
+Processed: 1348  116293
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1361   116356  PASS    words  960
+Received: 1362   116420  PASS    words  961
+Processed: 1349  116448
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1363   116512  PASS    words  962
+Processed: 1350  116598
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1364   116660  PASS    words  963
+Received: 1365   116724  PASS    words  964
+Processed: 1351  116750
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1366   116814  PASS    words  965
+Processed: 1352  116844
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1367   116907  PASS    words  966
+Received: 1368   116974  PASS    words  967
+Received: 1369   117058  PASS    words  968
+Processed: 1369  117102
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1370   117164  PASS    words  969
+Processed: 1370  117192
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1371   117256  PASS    words  970
+Processed: 1371  117284
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1372   117346  PASS    words  971
+Received: 1373   117414  PASS    words  972
+Processed: 1372  117438
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1374   117504  PASS    words  973
+Received: 1375   117569  PASS    words  974
+Processed: 1373  117591
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1376   117655  PASS    words  975
+Processed: 1374  117685
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1377   117723  PASS    words  976
+Processed: 1375  117749
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1378   117812  PASS    words  977
+Received: 1379   117876  PASS    words  978
+Processed: 1376  117898
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1380   117964  PASS    words  979
+Received: 1381   118029  PASS    words  980
+Processed: 1377  118052
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1382   118114  PASS    words  981
+Processed: 1378  118145
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1383   118209  PASS    words  982
+Processed: 1379  118239
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1384   118303  PASS    words  983
+Received: 1385   118367  PASS    words  984
+Processed: 1380  118402
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1386   118466  PASS    words  985
+Received: 1387   118529  PASS    words  986
+Processed: 1381  118552
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1388   118613  PASS    words  987
+Processed: 1382  118643
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1389   118709  PASS    words  988
+Received: 1390   118774  PASS    words  989
+Processed: 1383  118803
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1391   118869  PASS    words  990
+Processed: 1384  118900
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1392   118965  PASS    words  991
+Received: 1393   119028  PASS    words  992
+Processed: 1385  119056
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1394   119120  PASS    words  993
+Processed: 1386  119148
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1395   119212  PASS    words  994
+Received: 1396   119276  PASS    words  995
+Processed: 1387  119305
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1397   119368  PASS    words  996
+Processed: 1388  119399
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1398   119462  PASS    words  997
+Received: 1399   119527  PASS    words  998
+Processed: 1389  119557
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1400   119622  PASS    words  999
+Processed: 1390  119652
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1401   119720  PASS    words 1000
+Received: 1402   119784  PASS    words 1001
+Processed: 1391  119885
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1403   119950  PASS    words 1002
+Processed: 1392  119980
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1404   120042  PASS    words 1003
+Received: 1405   120105  PASS    words 1004
+Processed: 1393  120133
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1406   120197  PASS    words 1005
+Processed: 1394  120227
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1407   120291  PASS    words 1006
+Received: 1408   120354  PASS    words 1007
+Processed: 1395  120382
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1409   120446  PASS    words 1008
+Processed: 1396  120476
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1410   120540  PASS    words 1009
+Received: 1411   120602  PASS    words 1010
+Processed: 1397  120630
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1412   120698  PASS    words 1011
+Processed: 1398  120730
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1413   120794  PASS    words 1012
+Received: 1414   120856  PASS    words 1013
+Received: 1415   120937  PASS    words 1014
+Processed: 1415  120996
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1416   121061  PASS    words 1015
+Processed: 1416  121089
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1417   121153  PASS    words 1016
+Received: 1418   121217  PASS    words 1017
+Processed: 1417  121244
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1419   121308  PASS    words 1018
+Processed: 1418  121338
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1420   121402  PASS    words 1019
+Received: 1421   121469  PASS    words 1020
+Processed: 1419  121491
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1422   121527  PASS    words 1021
+Processed: 1420  121557
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1423   121627  PASS    words 1022
+Received: 1424   121690  PASS    words 1023
+Processed: 1421  121718
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1425   121782  PASS    words 1024
+Processed: 1422  121809
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1426   121873  PASS    words 1025
+Received: 1427   121936  PASS    words 1026
+Processed: 1423  121963
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1428   122027  PASS    words 1027
+Processed: 1424  122057
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1429   122121  PASS    words 1028
+Received: 1430   122183  PASS    words 1029
+Processed: 1425  122211
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1431   122275  PASS    words 1030
+Processed: 1426  122305
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1432   122369  PASS    words 1031
+Received: 1433   122435  PASS    words 1032
+Processed: 1427  122464
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1434   122529  PASS    words 1033
+Processed: 1428  122557
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1435   122621  PASS    words 1034
+Received: 1436   122685  PASS    words 1035
+Processed: 1429  122713
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1437   122777  PASS    words 1036
+Processed: 1430  122807
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1438   122870  PASS    words 1037
+Received: 1439   122933  PASS    words 1038
+Processed: 1431  122961
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1440   123024  PASS    words 1039
+Processed: 1432  123054
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1441   123176  PASS    words 1040
+Received: 1442   123237  PASS    words 1041
+Processed: 1433  123265
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1443   123329  PASS    words 1042
+Processed: 1434  123359
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1444   123426  PASS    words 1043
+Received: 1445   123490  PASS    words 1044
+Processed: 1435  123515
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1446   123578  PASS    words 1045
+Processed: 1436  123608
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1447   123672  PASS    words 1046
+Received: 1448   123735  PASS    words 1047
+Processed: 1437  123763
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1449   123830  PASS    words 1048
+Processed: 1438  123863
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1450   123926  PASS    words 1049
+Received: 1451   123990  PASS    words 1050
+Processed: 1439  124017
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1452   124080  PASS    words 1051
+Processed: 1440  124111
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1453   124175  PASS    words 1052
+Received: 1454   124239  PASS    words 1053
+Processed: 1441  124269
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1455   124334  PASS    words 1054
+Processed: 1442  124362
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1456   124426  PASS    words 1055
+Received: 1457   124490  PASS    words 1056
+Processed: 1443  124517
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1458   124582  PASS    words 1057
+Processed: 1444  124612
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1459   124676  PASS    words 1058
+Received: 1460   124740  PASS    words 1059
+Received: 1461   124821  PASS    words 1060
+Processed: 1461  124879
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1462   124943  PASS    words 1061
+Processed: 1462  124974
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1463   125038  PASS    words 1062
+Processed: 1463  125063
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1464   125125  PASS    words 1063
+Received: 1465   125191  PASS    words 1064
+Processed: 1464  125223
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1466   125288  PASS    words 1065
+Received: 1467   125351  PASS    words 1066
+Processed: 1465  125373
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1468   125436  PASS    words 1067
+Processed: 1466  125466
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1469   125531  PASS    words 1068
+Received: 1470   125594  PASS    words 1069
+Processed: 1467  125622
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1471   125687  PASS    words 1070
+Processed: 1468  125716
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1472   125780  PASS    words 1071
+Received: 1473   125847  PASS    words 1072
+Processed: 1469  125871
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1474   125938  PASS    words 1073
+Processed: 1470  125968
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1475   126033  PASS    words 1074
+Received: 1476   126098  PASS    words 1075
+Processed: 1471  126128
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1477   126192  PASS    words 1076
+Processed: 1472  126223
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1478   126286  PASS    words 1077
+Received: 1479   126350  PASS    words 1078
+Processed: 1473  126436
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1480   126500  PASS    words 1079
+Processed: 1474  126530
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1481   126594  PASS    words 1080
+Received: 1482   126658  PASS    words 1081
+Processed: 1475  126706
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1483   126771  PASS    words 1082
+Processed: 1476  126800
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1484   126864  PASS    words 1083
+Received: 1485   126928  PASS    words 1084
+Processed: 1477  126955
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1486   126999  PASS    words 1085
+Processed: 1478  127027
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1487   127093  PASS    words 1086
+Received: 1488   127157  PASS    words 1087
+Processed: 1479  127185
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1489   127249  PASS    words 1088
+Processed: 1480  127279
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1490   127343  PASS    words 1089
+Received: 1491   127407  PASS    words 1090
+Processed: 1481  127435
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1492   127500  PASS    words 1091
+Processed: 1482  127530
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1493   127594  PASS    words 1092
+Received: 1494   127657  PASS    words 1093
+Processed: 1483  127685
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1495   127752  PASS    words 1094
+Processed: 1484  127783
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1496   127847  PASS    words 1095
+Received: 1497   127913  PASS    words 1096
+Processed: 1485  127943
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1498   128007  PASS    words 1097
+Processed: 1486  128039
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1499   128105  PASS    words 1098
+Received: 1500   128171  PASS    words 1099
+Processed: 1487  128200
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1501   128265  PASS    words 1100
+Processed: 1488  128295
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1502   128360  PASS    words 1101
+Received: 1503   128424  PASS    words 1102
+Processed: 1489  128449
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1504   128514  PASS    words 1103
+Processed: 1490  128542
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1505   128607  PASS    words 1104
+Received: 1506   128645  PASS    words 1105
+Received: 1507   128730  PASS    words 1106
+Processed: 1507  128762
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1508   128825  PASS    words 1107
+Processed: 1508  128855
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1509   128919  PASS    words 1108
+Processed: 1509  128946
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1510   129010  PASS    words 1109
+Received: 1511   129072  PASS    words 1110
+Processed: 1510  129100
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1512   129166  PASS    words 1111
+Received: 1513   129230  PASS    words 1112
+Processed: 1511  129252
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1514   129335  PASS    words 1113
+Processed: 1512  129363
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1515   129427  PASS    words 1114
+Processed: 1513  129458
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1516   129524  PASS    words 1115
+Received: 1517   129589  PASS    words 1116
+Processed: 1514  129611
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1518   129741  PASS    words 1117
+Received: 1519   129805  PASS    words 1118
+Processed: 1515  129833
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1520   129898  PASS    words 1119
+Processed: 1516  129928
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1521   129992  PASS    words 1120
+Received: 1522   130055  PASS    words 1121
+Processed: 1517  130078
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1523   130143  PASS    words 1122
+Processed: 1518  130175
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1524   130239  PASS    words 1123
+Received: 1525   130303  PASS    words 1124
+Processed: 1519  130330
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1526   130394  PASS    words 1125
+Processed: 1520  130424
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1527   130467  PASS    words 1126
+Received: 1528   130516  PASS    words 1127
+Processed: 1521  130539
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1529   130570  PASS    words 1128
+Processed: 1522  130592
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1530   130631  PASS    words 1129
+Received: 1531   130669  PASS    words 1130
+Processed: 1523  130704
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1532   130742  PASS    words 1131
+Processed: 1524  130771
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1533   130802  PASS    words 1132
+Received: 1534   130868  PASS    words 1133
+Processed: 1525  130901
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1535   130967  PASS    words 1134
+Processed: 1526  130997
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1536   131062  PASS    words 1135
+Received: 1537   131127  PASS    words 1136
+Processed: 1527  131155
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1538   131221  PASS    words 1137
+Processed: 1528  131251
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1539   131320  PASS    words 1138
+Received: 1540   131385  PASS    words 1139
+Processed: 1529  131413
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1541   131479  PASS    words 1140
+Processed: 1530  131509
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1542   131574  PASS    words 1141
+Received: 1543   131638  PASS    words 1142
+Processed: 1531  131666
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1544   131732  PASS    words 1143
+Processed: 1532  131760
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1545   131826  PASS    words 1144
+Received: 1546   131891  PASS    words 1145
+Processed: 1533  131919
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1547   131985  PASS    words 1146
+Processed: 1534  132015
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1548   132080  PASS    words 1147
+Received: 1549   132150  PASS    words 1148
+Processed: 1535  132180
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1550   132243  PASS    words 1149
+Processed: 1536  132274
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1551   132340  PASS    words 1150
+Received: 1552   132404  PASS    words 1151
+Received: 1553   132486  PASS    words 1152
+Processed: 1553  132541
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1554   132606  PASS    words 1153
+Processed: 1554  132633
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1555   132698  PASS    words 1154
+Received: 1556   132762  PASS    words 1155
+Processed: 1555  132852
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1557   132917  PASS    words 1156
+Processed: 1556  132947
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1558   133012  PASS    words 1157
+Received: 1559   133077  PASS    words 1158
+Processed: 1557  133098
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1560   133168  PASS    words 1159
+Processed: 1558  133195
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1561   133238  PASS    words 1160
+Received: 1562   133293  PASS    words 1161
+Processed: 1559  133316
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1563   133379  PASS    words 1162
+Processed: 1560  133409
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1564   133473  PASS    words 1163
+Received: 1565   133535  PASS    words 1164
+Processed: 1561  133562
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1566   133626  PASS    words 1165
+Processed: 1562  133656
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1567   133718  PASS    words 1166
+Received: 1568   133768  PASS    words 1167
+Processed: 1563  133794
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1569   133835  PASS    words 1168
+Processed: 1564  133860
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1570   133903  PASS    words 1169
+Received: 1571   133965  PASS    words 1170
+Processed: 1565  133994
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1572   134058  PASS    words 1171
+Processed: 1566  134089
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1573   134156  PASS    words 1172
+Received: 1574   134217  PASS    words 1173
+Processed: 1567  134245
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1575   134298  PASS    words 1174
+Processed: 1568  134321
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1576   134384  PASS    words 1175
+Received: 1577   134436  PASS    words 1176
+Processed: 1569  134458
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1578   134520  PASS    words 1177
+Processed: 1570  134550
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1579   134613  PASS    words 1178
+Received: 1580   134681  PASS    words 1179
+Processed: 1571  134711
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1581   134778  PASS    words 1180
+Processed: 1572  134803
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1582   134867  PASS    words 1181
+Received: 1583   134930  PASS    words 1182
+Processed: 1573  134958
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1584   135023  PASS    words 1183
+Processed: 1574  135051
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1585   135091  PASS    words 1184
+Received: 1586   135151  PASS    words 1185
+Processed: 1575  135180
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1587   135246  PASS    words 1186
+Processed: 1576  135274
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1588   135338  PASS    words 1187
+Received: 1589   135404  PASS    words 1188
+Processed: 1577  135430
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1590   135492  PASS    words 1189
+Processed: 1578  135523
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1591   135566  PASS    words 1190
+Received: 1592   135645  PASS    words 1191
+Processed: 1579  135670
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1593   135731  PASS    words 1192
+Processed: 1580  135759
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1594   135881  PASS    words 1193
+Received: 1595   135943  PASS    words 1194
+Processed: 1581  135971
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1596   136037  PASS    words 1195
+Processed: 1582  136067
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1597   136130  PASS    words 1196
+Received: 1598   136191  PASS    words 1197
+Received: 1599   136246  PASS    words 1198
+Processed: 1599  136280
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1600   136313  PASS    words 1199
+Processed: 1600  136338
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1601   136375  PASS    words 1200
+Processed: 1601  136401
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1602   136467  PASS    words 1201
+Received: 1603   136531  PASS    words 1202
+Processed: 1602  136563
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1604   136628  PASS    words 1203
+Received: 1605   136694  PASS    words 1204
+Processed: 1603  136716
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1606   136805  PASS    words 1205
+Processed: 1604  136827
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1607   136893  PASS    words 1206
+Processed: 1605  136918
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1608   136969  PASS    words 1207
+Received: 1609   137036  PASS    words 1208
+Processed: 1606  137064
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1610   137127  PASS    words 1209
+Received: 1611   137189  PASS    words 1210
+Processed: 1607  137217
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1612   137305  PASS    words 1211
+Processed: 1608  137334
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1613   137400  PASS    words 1212
+Received: 1614   137462  PASS    words 1213
+Processed: 1609  137483
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1615   137562  PASS    words 1214
+Processed: 1610  137582
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1616   137626  PASS    words 1215
+Received: 1617   137684  PASS    words 1216
+Processed: 1611  137706
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1618   137768  PASS    words 1217
+Processed: 1612  137796
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1619   137862  PASS    words 1218
+Received: 1620   137926  PASS    words 1219
+Processed: 1613  137947
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1621   138009  PASS    words 1220
+Processed: 1614  138030
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1622   138067  PASS    words 1221
+Received: 1623   138122  PASS    words 1222
+Processed: 1615  138154
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1624   138217  PASS    words 1223
+Processed: 1616  138249
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1625   138322  PASS    words 1224
+Received: 1626   138384  PASS    words 1225
+Processed: 1617  138412
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1627   138479  PASS    words 1226
+Processed: 1618  138504
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1628   138566  PASS    words 1227
+Received: 1629   138608  PASS    words 1228
+Processed: 1619  138634
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1630   138696  PASS    words 1229
+Processed: 1620  138720
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1631   138770  PASS    words 1230
+Received: 1632   138830  PASS    words 1231
+Processed: 1621  138859
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1633   138957  PASS    words 1232
+Processed: 1622  138983
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1634   139022  PASS    words 1233
+Received: 1635   139086  PASS    words 1234
+Processed: 1623  139115
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1636   139182  PASS    words 1235
+Processed: 1624  139210
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1637   139277  PASS    words 1236
+Received: 1638   139344  PASS    words 1237
+Processed: 1625  139386
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1639   139451  PASS    words 1238
+Processed: 1626  139476
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1640   139519  PASS    words 1239
+Received: 1641   139583  PASS    words 1240
+Processed: 1627  139611
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1642   139676  PASS    words 1241
+Processed: 1628  139709
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1643   139774  PASS    words 1242
+Received: 1644   139843  PASS    words 1243
+Received: 1645   139929  PASS    words 1244
+Processed: 1645  139981
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1646   140048  PASS    words 1245
+Processed: 1646  140072
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1647   140136  PASS    words 1246
+Received: 1648   140201  PASS    words 1247
+Processed: 1647  140223
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1649   140259  PASS    words 1248
+Processed: 1648  140287
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1650   140357  PASS    words 1249
+Received: 1651   140424  PASS    words 1250
+Processed: 1649  140444
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1652   140508  PASS    words 1251
+Processed: 1650  140536
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1653   140600  PASS    words 1252
+Received: 1654   140665  PASS    words 1253
+Processed: 1651  140692
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1655   140737  PASS    words 1254
+Processed: 1652  140761
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1656   140807  PASS    words 1255
+Received: 1657   140867  PASS    words 1256
+Processed: 1653  140889
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1658   140952  PASS    words 1257
+Processed: 1654  140980
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1659   141035  PASS    words 1258
+Received: 1660   141074  PASS    words 1259
+Processed: 1655  141098
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1661   141162  PASS    words 1260
+Processed: 1656  141187
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1662   141252  PASS    words 1261
+Received: 1663   141317  PASS    words 1262
+Processed: 1657  141345
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1664   141410  PASS    words 1263
+Processed: 1658  141438
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1665   141506  PASS    words 1264
+Received: 1666   141570  PASS    words 1265
+Processed: 1659  141599
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1667   141665  PASS    words 1266
+Processed: 1660  141694
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1668   141760  PASS    words 1267
+Received: 1669   141826  PASS    words 1268
+Processed: 1661  141854
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1670   141921  PASS    words 1269
+Processed: 1662  141953
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1671   142076  PASS    words 1270
+Received: 1672   142119  PASS    words 1271
+Processed: 1663  142143
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1673   142211  PASS    words 1272
+Processed: 1664  142239
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1674   142276  PASS    words 1273
+Received: 1675   142338  PASS    words 1274
+Processed: 1665  142366
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1676   142438  PASS    words 1275
+Processed: 1666  142468
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1677   142535  PASS    words 1276
+Received: 1678   142601  PASS    words 1277
+Processed: 1667  142629
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1679   142696  PASS    words 1278
+Processed: 1668  142726
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1680   142792  PASS    words 1279
+Received: 1681   142858  PASS    words 1280
+Processed: 1669  142883
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1682   142949  PASS    words 1281
+Processed: 1670  142979
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1683   143046  PASS    words 1282
+Received: 1684   143122  PASS    words 1283
+Processed: 1671  143156
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1685   143207  PASS    words 1284
+Processed: 1672  143239
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1686   143339  PASS    words 1285
+Received: 1687   143420  PASS    words 1286
+Processed: 1673  143456
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1688   143530  PASS    words 1287
+Processed: 1674  143580
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1689   143646  PASS    words 1288
+Received: 1690   143709  PASS    words 1289
+Received: 1691   143793  PASS    words 1290
+Processed: 1691  143847
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1692   143912  PASS    words 1291
+Processed: 1692  143940
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1693   144006  PASS    words 1292
+Processed: 1693  144031
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1694   144094  PASS    words 1293
+Received: 1695   144157  PASS    words 1294
+Processed: 1694  144187
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1696   144253  PASS    words 1295
+Received: 1697   144323  PASS    words 1296
+Processed: 1695  144346
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1698   144411  PASS    words 1297
+Processed: 1696  144439
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1699   144504  PASS    words 1298
+Received: 1700   144573  PASS    words 1299
+Processed: 1697  144603
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1701   144669  PASS    words 1300
+Processed: 1698  144699
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1702   144765  PASS    words 1301
+Received: 1703   144830  PASS    words 1302
+Processed: 1699  144858
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1704   144924  PASS    words 1303
+Processed: 1700  144955
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1705   145022  PASS    words 1304
+Received: 1706   145087  PASS    words 1305
+Processed: 1701  145123
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1707   145164  PASS    words 1306
+Processed: 1702  145202
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1708   145278  PASS    words 1307
+Received: 1709   145348  PASS    words 1308
+Processed: 1703  145372
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1710   145502  PASS    words 1309
+Processed: 1704  145529
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1711   145603  PASS    words 1310
+Received: 1712   145699  PASS    words 1311
+Processed: 1705  145727
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1713   145793  PASS    words 1312
+Processed: 1706  145823
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1714   145889  PASS    words 1313
+Received: 1715   145955  PASS    words 1314
+Processed: 1707  145984
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1716   146051  PASS    words 1315
+Processed: 1708  146081
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1717   146147  PASS    words 1316
+Received: 1718   146217  PASS    words 1317
+Processed: 1709  146238
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1719   146302  PASS    words 1318
+Processed: 1710  146332
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1720   146370  PASS    words 1319
+Received: 1721   146435  PASS    words 1320
+Processed: 1711  146463
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1722   146530  PASS    words 1321
+Processed: 1712  146560
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1723   146629  PASS    words 1322
+Received: 1724   146694  PASS    words 1323
+Processed: 1713  146723
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1725   146791  PASS    words 1324
+Processed: 1714  146822
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1726   146889  PASS    words 1325
+Received: 1727   146954  PASS    words 1326
+Processed: 1715  146980
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1728   147045  PASS    words 1327
+Processed: 1716  147076
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1729   147148  PASS    words 1328
+Received: 1730   147214  PASS    words 1329
+Processed: 1717  147243
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1731   147310  PASS    words 1330
+Processed: 1718  147340
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1732   147406  PASS    words 1331
+Received: 1733   147470  PASS    words 1332
+Processed: 1719  147496
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1734   147562  PASS    words 1333
+Processed: 1720  147592
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1735   147658  PASS    words 1334
+Received: 1736   147723  PASS    words 1335
+Received: 1737   147807  PASS    words 1336
+Processed: 1737  147861
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1738   147947  PASS    words 1337
+Processed: 1738  147974
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1739   148010  PASS    words 1338
+Processed: 1739  148041
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1740   148110  PASS    words 1339
+Received: 1741   148176  PASS    words 1340
+Processed: 1740  148204
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1742   148271  PASS    words 1341
+Received: 1743   148335  PASS    words 1342
+Processed: 1741  148358
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1744   148422  PASS    words 1343
+Processed: 1742  148450
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1745   148515  PASS    words 1344
+Processed: 1743  148546
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1746   148583  PASS    words 1345
+Received: 1747   148650  PASS    words 1346
+Processed: 1744  148680
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1748   148804  PASS    words 1347
+Received: 1749   148869  PASS    words 1348
+Processed: 1745  148891
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1750   148961  PASS    words 1349
+Processed: 1746  148994
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1751   149060  PASS    words 1350
+Received: 1752   149126  PASS    words 1351
+Processed: 1747  149154
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1753   149220  PASS    words 1352
+Processed: 1748  149251
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1754   149316  PASS    words 1353
+Received: 1755   149381  PASS    words 1354
+Processed: 1749  149409
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1756   149476  PASS    words 1355
+Processed: 1750  149504
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1757   149571  PASS    words 1356
+Received: 1758   149637  PASS    words 1357
+Processed: 1751  149664
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1759   149730  PASS    words 1358
+Processed: 1752  149761
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1760   149799  PASS    words 1359
+Received: 1761   149842  PASS    words 1360
+Processed: 1753  149869
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1762   149907  PASS    words 1361
+Processed: 1754  149935
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1763   150001  PASS    words 1362
+Received: 1764   150065  PASS    words 1363
+Processed: 1755  150093
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1765   150159  PASS    words 1364
+Processed: 1756  150190
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1766   150256  PASS    words 1365
+Received: 1767   150321  PASS    words 1366
+Processed: 1757  150349
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1768   150415  PASS    words 1367
+Processed: 1758  150445
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1769   150511  PASS    words 1368
+Received: 1770   150576  PASS    words 1369
+Processed: 1759  150603
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1771   150647  PASS    words 1370
+Processed: 1760  150675
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1772   150741  PASS    words 1371
+Received: 1773   150814  PASS    words 1372
+Processed: 1761  150844
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1774   150911  PASS    words 1373
+Processed: 1762  150941
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1775   151008  PASS    words 1374
+Received: 1776   151074  PASS    words 1375
+Processed: 1763  151102
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1777   151169  PASS    words 1376
+Processed: 1764  151199
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1778   151282  PASS    words 1377
+Received: 1779   151348  PASS    words 1378
+Processed: 1765  151373
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1780   151440  PASS    words 1379
+Processed: 1766  151470
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1781   151537  PASS    words 1380
+Received: 1782   151607  PASS    words 1381
+Received: 1783   151693  PASS    words 1382
+Processed: 1783  151748
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1784   151814  PASS    words 1383
+Processed: 1784  151842
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1785   151909  PASS    words 1384
+Processed: 1785  151935
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1786   152056  PASS    words 1385
+Received: 1787   152122  PASS    words 1386
+Processed: 1786  152152
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1788   152219  PASS    words 1387
+Received: 1789   152284  PASS    words 1388
+Processed: 1787  152306
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1790   152371  PASS    words 1389
+Processed: 1788  152401
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1791   152469  PASS    words 1390
+Received: 1792   152535  PASS    words 1391
+Processed: 1789  152571
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1793   152640  PASS    words 1392
+Processed: 1790  152669
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1794   152736  PASS    words 1393
+Received: 1795   152800  PASS    words 1394
+Processed: 1791  152823
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1796   152887  PASS    words 1395
+Processed: 1792  152917
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1797   152983  PASS    words 1396
+Received: 1798   153049  PASS    words 1397
+Processed: 1793  153077
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1799   153144  PASS    words 1398
+Processed: 1794  153173
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1800   153242  PASS    words 1399
+Received: 1801   153308  PASS    words 1400
+Processed: 1795  153336
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1802   153402  PASS    words 1401
+Processed: 1796  153430
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1803   153500  PASS    words 1402
+Received: 1804   153568  PASS    words 1403
+Processed: 1797  153596
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1805   153663  PASS    words 1404
+Processed: 1798  153693
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1806   153760  PASS    words 1405
+Received: 1807   153826  PASS    words 1406
+Processed: 1799  153852
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1808   153920  PASS    words 1407
+Processed: 1800  153950
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1809   154016  PASS    words 1408
+Received: 1810   154081  PASS    words 1409
+Processed: 1801  154109
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1811   154174  PASS    words 1410
+Processed: 1802  154205
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1812   154271  PASS    words 1411
+Received: 1813   154336  PASS    words 1412
+Processed: 1803  154364
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1814   154451  PASS    words 1413
+Processed: 1804  154474
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1815   154539  PASS    words 1414
+Received: 1816   154605  PASS    words 1415
+Processed: 1805  154633
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1817   154699  PASS    words 1416
+Processed: 1806  154729
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1818   154795  PASS    words 1417
+Received: 1819   154861  PASS    words 1418
+Processed: 1807  154886
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1820   154952  PASS    words 1419
+Processed: 1808  154983
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1821   155047  PASS    words 1420
+Received: 1822   155113  PASS    words 1421
+Processed: 1809  155141
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1823   155181  PASS    words 1422
+Processed: 1810  155212
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1824   155268  PASS    words 1423
+Received: 1825   155387  PASS    words 1424
+Processed: 1811  155413
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1826   155478  PASS    words 1425
+Processed: 1812  155506
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1827   155545  PASS    words 1426
+Received: 1828   155621  PASS    words 1427
+Received: 1829   155718  PASS    words 1428
+Processed: 1829  155772
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1830   155855  PASS    words 1429
+Processed: 1830  155882
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1831   155949  PASS    words 1430
+Processed: 1831  155973
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1832   156040  PASS    words 1431
+Received: 1833   156106  PASS    words 1432
+Processed: 1832  156134
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1834   156215  PASS    words 1433
+Received: 1835   156258  PASS    words 1434
+Processed: 1833  156307
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1836   156359  PASS    words 1435
+Processed: 1834  156390
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1837   156456  PASS    words 1436
+Received: 1838   156523  PASS    words 1437
+Processed: 1835  156549
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1839   156617  PASS    words 1438
+Processed: 1836  156647
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1840   156714  PASS    words 1439
+Received: 1841   156780  PASS    words 1440
+Processed: 1837  156802
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1842   156869  PASS    words 1441
+Processed: 1838  156899
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1843   156967  PASS    words 1442
+Received: 1844   157036  PASS    words 1443
+Processed: 1839  157065
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1845   157133  PASS    words 1444
+Processed: 1840  157164
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1846   157235  PASS    words 1445
+Received: 1847   157302  PASS    words 1446
+Processed: 1841  157329
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1848   157397  PASS    words 1447
+Processed: 1842  157427
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1849   157494  PASS    words 1448
+Received: 1850   157565  PASS    words 1449
+Processed: 1843  157595
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1851   157663  PASS    words 1450
+Processed: 1844  157693
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1852   157760  PASS    words 1451
+Received: 1853   157830  PASS    words 1452
+Processed: 1845  157859
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1854   157928  PASS    words 1453
+Processed: 1846  157958
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1855   158025  PASS    words 1454
+Received: 1856   158092  PASS    words 1455
+Processed: 1847  158121
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1857   158188  PASS    words 1456
+Processed: 1848  158218
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1858   158286  PASS    words 1457
+Received: 1859   158350  PASS    words 1458
+Processed: 1849  158378
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1860   158459  PASS    words 1459
+Processed: 1850  158488
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1861   158557  PASS    words 1460
+Received: 1862   158623  PASS    words 1461
+Processed: 1851  158650
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1863   158774  PASS    words 1462
+Processed: 1852  158804
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1864   158871  PASS    words 1463
+Received: 1865   158937  PASS    words 1464
+Processed: 1853  158963
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1866   159030  PASS    words 1465
+Processed: 1854  159059
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1867   159128  PASS    words 1466
+Received: 1868   159195  PASS    words 1467
+Processed: 1855  159223
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1869   159291  PASS    words 1468
+Processed: 1856  159321
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1870   159410  PASS    words 1469
+Received: 1871   159477  PASS    words 1470
+Processed: 1857  159505
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1872   159573  PASS    words 1471
+Processed: 1858  159603
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1873   159642  PASS    words 1472
+Received: 1874   159709  PASS    words 1473
+Received: 1875   159796  PASS    words 1474
+Processed: 1875  159849
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1876   159921  PASS    words 1475
+Processed: 1876  159950
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1877   159988  PASS    words 1476
+Processed: 1877  160011
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1878   160079  PASS    words 1477
+Received: 1879   160146  PASS    words 1478
+Processed: 1878  160176
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1880   160260  PASS    words 1479
+Received: 1881   160328  PASS    words 1480
+Processed: 1879  160347
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1882   160413  PASS    words 1481
+Processed: 1880  160443
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1883   160511  PASS    words 1482
+Received: 1884   160577  PASS    words 1483
+Processed: 1881  160605
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1885   160674  PASS    words 1484
+Processed: 1882  160704
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1886   160770  PASS    words 1485
+Received: 1887   160815  PASS    words 1486
+Processed: 1883  160837
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1888   160905  PASS    words 1487
+Processed: 1884  160934
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1889   161003  PASS    words 1488
+Received: 1890   161042  PASS    words 1489
+Processed: 1885  161069
+  >абвгдеёжзийклмно...прстуфхцчшщъыьэю<
+Received: 1891   161138  PASS    words 1490
+Processed: 1886  161168
+  >абвгдеёжзийклмно...рстуфхцчшщъыьэюя<
+Received: 1892   161235  PASS    words 1491
+Received: 1893   161302  PASS    words 1492
+Processed: 1887  161323
+  >абвгдеёжзийклмно...стуфхцчшщъыьэюяА<
+Received: 1894   161389  PASS    words 1493
+Processed: 1888  161419
+  >абвгдеёжзийклмно...туфхцчшщъыьэюяАБ<
+Received: 1895   161487  PASS    words 1494
+Received: 1896   161553  PASS    words 1495
+Processed: 1889  161580
+  >абвгдеёжзийклмно...уфхцчшщъыьэюяАБВ<
+Received: 1897   161629  PASS    words 1496
+Processed: 1890  161660
+  >абвгдеёжзийклмно...фхцчшщъыьэюяАБВГ<
+Received: 1898   161698  PASS    words 1497
+Received: 1899   161762  PASS    words 1498
+Processed: 1891  161791
+  >абвгдеёжзийклмно...хцчшщъыьэюяАБВГД<
+Received: 1900   161865  PASS    words 1499
+Processed: 1892  161898
+  >абвгдеёжзийклмно...цчшщъыьэюяАБВГДЕ<
+Received: 1901   161966  PASS    words 1500
+Received: 1902   162091  PASS    words 1501
+Processed: 1893  162119
+  >абвгдеёжзийклмно...чшщъыьэюяАБВГДЕЁ<
+Received: 1903   162187  PASS    words 1502
+Processed: 1894  162216
+  >абвгдеёжзийклмно...шщъыьэюяАБВГДЕЁЖ<
+Received: 1904   162284  PASS    words 1503
+Received: 1905   162352  PASS    words 1504
+Processed: 1895  162380
+  >абвгдеёжзийклмно...щъыьэюяАБВГДЕЁЖЗ<
+Received: 1906   162448  PASS    words 1505
+Processed: 1896  162478
+  >абвгдеёжзийклмно...ъыьэюяАБВГДЕЁЖЗИ<
+Received: 1907   162546  PASS    words 1506
+Received: 1908   162617  PASS    words 1507
+Processed: 1897  162648
+  >абвгдеёжзийклмно...ыьэюяАБВГДЕЁЖЗИЙ<
+Received: 1909   162719  PASS    words 1508
+Processed: 1898  162749
+  >абвгдеёжзийклмно...ьэюяАБВГДЕЁЖЗИЙК<
+Received: 1910   162833  PASS    words 1509
+Received: 1911   162901  PASS    words 1510
+Processed: 1899  162928
+  >абвгдеёжзийклмно...эюяАБВГДЕЁЖЗИЙКЛ<
+Received: 1912   162996  PASS    words 1511
+Processed: 1900  163026
+  >абвгдеёжзийклмно...юяАБВГДЕЁЖЗИЙКЛМ<
+Received: 1913   163094  PASS    words 1512
+Received: 1914   163161  PASS    words 1513
+Processed: 1901  163189
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1915   163257  PASS    words 1514
+Processed: 1902  163286
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1916   163353  PASS    words 1515
+Received: 1917   163419  PASS    words 1516
+Processed: 1903  163445
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1918   163512  PASS    words 1517
+Processed: 1904  163542
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1919   163609  PASS    words 1518
+Received: 1920   163681  PASS    words 1519
+Received: 1921   163786  PASS    words 1520
+Processed: 1921  163840
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1922   163908  PASS    words 1521
+Processed: 1922  163935
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1923   164002  PASS    words 1522
+Received: 1924   164071  PASS    words 1523
+Processed: 1923  164094
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Received: 1925   164160  PASS    words 1524
+Processed: 1924  164191
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+Received: 1926   164257  PASS    words 1525
+Received: 1927   164324  PASS    words 1526
+Processed: 1925  164344
+  >абвгдеёжзийклмно...ЦЧШЩЪЫЬЭЮЯабвгде<
+Received: 1928   164409  PASS    words 1527
+Processed: 1926  164439
+  >абвгдеёжзийклмно...ЧШЩЪЫЬЭЮЯабвгдеё<
+Received: 1929   164508  PASS    words 1528
+Received: 1930   164575  PASS    words 1529
+Processed: 1927  164602
+  >абвгдеёжзийклмно...ШЩЪЫЬЭЮЯабвгдеёж<
+Received: 1931   164672  PASS    words 1530
+Processed: 1928  164702
+  >абвгдеёжзийклмно...ЩЪЫЬЭЮЯабвгдеёжз<
+Received: 1932   164769  PASS    words 1531
+Received: 1933   164835  PASS    words 1532
+Processed: 1929  164857
+  >абвгдеёжзийклмно...ЪЫЬЭЮЯабвгдеёжзи<
+Received: 1934   164923  PASS    words 1533
+Processed: 1930  164953
+  >абвгдеёжзийклмно...ЫЬЭЮЯабвгдеёжзий<
+Received: 1935   165023  PASS    words 1534
+Received: 1936   165091  PASS    words 1535
+Processed: 1931  165120
+  >абвгдеёжзийклмно...ЬЭЮЯабвгдеёжзийк<
+Received: 1937   165188  PASS    words 1536
+Processed: 1932  165218
+  >абвгдеёжзийклмно...ЭЮЯабвгдеёжзийкл<
+Received: 1938   165285  PASS    words 1537
+Received: 1939   165353  PASS    words 1538
+Processed: 1933  165381
+  >абвгдеёжзийклмно...ЮЯабвгдеёжзийклм<
+Received: 1940   165500  PASS    words 1539
+Processed: 1934  165521
+  >абвгдеёжзийклмно...Яабвгдеёжзийклмн<
+Received: 1941   165567  PASS    words 1540
+Received: 1942   165633  PASS    words 1541
+Processed: 1935  165662
+  >абвгдеёжзийклмно...абвгдеёжзийклмно<
+Received: 1943   165731  PASS    words 1542
+Processed: 1936  165760
+  >абвгдеёжзийклмно...бвгдеёжзийклмноп<
+Received: 1944   165828  PASS    words 1543
+Received: 1945   165896  PASS    words 1544
+Processed: 1937  165924
+  >абвгдеёжзийклмно...вгдеёжзийклмнопр<
+Received: 1946   165998  PASS    words 1545
+Processed: 1938  166028
+  >абвгдеёжзийклмно...гдеёжзийклмнопрс<
+Received: 1947   166095  PASS    words 1546
+Received: 1948   166161  PASS    words 1547
+Processed: 1939  166189
+  >абвгдеёжзийклмно...деёжзийклмнопрст<
+Received: 1949   166257  PASS    words 1548
+Processed: 1940  166287
+  >абвгдеёжзийклмно...еёжзийклмнопрсту<
+Received: 1950   166357  PASS    words 1549
+Received: 1951   166404  PASS    words 1550
+Processed: 1941  166433
+  >абвгдеёжзийклмно...ёжзийклмнопрстуф<
+Received: 1952   166504  PASS    words 1551
+Processed: 1942  166535
+  >абвгдеёжзийклмно...жзийклмнопрстуфх<
+Received: 1953   166603  PASS    words 1552
+Received: 1954   166669  PASS    words 1553
+Processed: 1943  166697
+  >абвгдеёжзийклмно...зийклмнопрстуфхц<
+Received: 1955   166764  PASS    words 1554
+Processed: 1944  166795
+  >абвгдеёжзийклмно...ийклмнопрстуфхцч<
+Received: 1956   166863  PASS    words 1555
+Received: 1957   166930  PASS    words 1556
+Processed: 1945  166956
+  >абвгдеёжзийклмно...йклмнопрстуфхцчш<
+Received: 1958   167023  PASS    words 1557
+Processed: 1946  167053
+  >абвгдеёжзийклмно...клмнопрстуфхцчшщ<
+Received: 1959   167098  PASS    words 1558
+Received: 1960   167163  PASS    words 1559
+Processed: 1947  167191
+  >абвгдеёжзийклмно...лмнопрстуфхцчшщъ<
+Received: 1961   167257  PASS    words 1560
+Processed: 1948  167285
+  >абвгдеёжзийклмно...мнопрстуфхцчшщъы<
+Received: 1962   167354  PASS    words 1561
+Received: 1963   167420  PASS    words 1562
+Processed: 1949  167446
+  >абвгдеёжзийклмно...нопрстуфхцчшщъыь<
+Received: 1964   167514  PASS    words 1563
+Processed: 1950  167544
+  >абвгдеёжзийклмно...опрстуфхцчшщъыьэ<
+Received: 1965   167611  PASS    words 1564
+Received: 1966   167693  PASS    words 1565
+Received: 1967   167782  PASS    words 1566
+Processed: 1967  167837
+  >абвгдеёжзийклмно...яАБВГДЕЁЖЗИЙКЛМН<
+Received: 1968   167904  PASS    words 1567
+Processed: 1968  167932
+  >абвгдеёжзийклмно...АБВГДЕЁЖЗИЙКЛМНО<
+Received: 1969   168000  PASS    words 1568
+Received: 1970   168067  PASS    words 1569
+Processed: 1969  168089
+  >абвгдеёжзийклмно...БВГДЕЁЖЗИЙКЛМНОП<
+Received: 1971   168155  PASS    words 1570
+Processed: 1970  168183
+  >абвгдеёжзийклмно...ВГДЕЁЖЗИЙКЛМНОПР<
+Received: 1972   168251  PASS    words 1571
+Received: 1973   168320  PASS    words 1572
+Processed: 1971  168341
+  >абвгдеёжзийклмно...ГДЕЁЖЗИЙКЛМНОПРС<
+Received: 1974   168411  PASS    words 1573
+Processed: 1972  168442
+  >абвгдеёжзийклмно...ДЕЁЖЗИЙКЛМНОПРСТ<
+Received: 1975   168511  PASS    words 1574
+Received: 1976   168596  PASS    words 1575
+Processed: 1973  168622
+  >абвгдеёжзийклмно...ЕЁЖЗИЙКЛМНОПРСТУ<
+Received: 1977   168691  PASS    words 1576
+Processed: 1974  168721
+  >абвгдеёжзийклмно...ЁЖЗИЙКЛМНОПРСТУФ<
+Received: 1978   168788  PASS    words 1577
+Received: 1979   168916  PASS    words 1578
+Processed: 1975  168937
+  >абвгдеёжзийклмно...ЖЗИЙКЛМНОПРСТУФХ<
+Received: 1980   169005  PASS    words 1579
+Processed: 1976  169035
+  >абвгдеёжзийклмно...ЗИЙКЛМНОПРСТУФХЦ<
+Received: 1981   169104  PASS    words 1580
+Received: 1982   169171  PASS    words 1581
+Processed: 1977  169200
+  >абвгдеёжзийклмно...ИЙКЛМНОПРСТУФХЦЧ<
+Received: 1983   169268  PASS    words 1582
+Processed: 1978  169293
+  >абвгдеёжзийклмно...ЙКЛМНОПРСТУФХЦЧШ<
+Received: 1984   169362  PASS    words 1583
+Received: 1985   169429  PASS    words 1584
+Processed: 1979  169457
+  >абвгдеёжзийклмно...КЛМНОПРСТУФХЦЧШЩ<
+Received: 1986   169525  PASS    words 1585
+Processed: 1980  169573
+  >абвгдеёжзийклмно...ЛМНОПРСТУФХЦЧШЩЪ<
+Received: 1987   169641  PASS    words 1586
+Received: 1988   169708  PASS    words 1587
+Processed: 1981  169736
+  >абвгдеёжзийклмно...МНОПРСТУФХЦЧШЩЪЫ<
+Received: 1989   169804  PASS    words 1588
+Processed: 1982  169834
+  >абвгдеёжзийклмно...НОПРСТУФХЦЧШЩЪЫЬ<
+Received: 1990   169901  PASS    words 1589
+Received: 1991   169968  PASS    words 1590
+Processed: 1983  169996
+  >абвгдеёжзийклмно...ОПРСТУФХЦЧШЩЪЫЬЭ<
+Received: 1992   170063  PASS    words 1591
+Processed: 1984  170110
+  >абвгдеёжзийклмно...ПРСТУФХЦЧШЩЪЫЬЭЮ<
+Received: 1993   170180  PASS    words 1592
+Received: 1994   170248  PASS    words 1593
+Processed: 1985  170277
+  >абвгдеёжзийклмно...РСТУФХЦЧШЩЪЫЬЭЮЯ<
+Received: 1995   170345  PASS    words 1594
+Processed: 1986  170375
+  >абвгдеёжзийклмно...СТУФХЦЧШЩЪЫЬЭЮЯа<
+Received: 1996   170442  PASS    words 1595
+Received: 1997   170509  PASS    words 1596
+Processed: 1987  170530
+  >абвгдеёжзийклмно...ТУФХЦЧШЩЪЫЬЭЮЯаб<
+Received: 1998   170596  PASS    words 1597
+Processed: 1988  170626
+  >абвгдеёжзийклмно...УФХЦЧШЩЪЫЬЭЮЯабв<
+Received: 1999   170694  PASS    words 1598
+Received: 2000   170763  PASS    words 1599
+Processed: 1989  170794
+  >абвгдеёжзийклмно...ФХЦЧШЩЪЫЬЭЮЯабвг<
+Processed: 1990  170826
+  >абвгдеёжзийклмно...ХЦЧШЩЪЫЬЭЮЯабвгд<
+the Ctrl-C is pressed

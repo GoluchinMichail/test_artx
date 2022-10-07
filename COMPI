@@ -1,0 +1,12 @@
+
+EVLIB=/usr/lib/libev.so.4.0.0
+EVLIB=../libev/.libs/libev.so.4.0.0
+EVLIB=~/Downloads/libev/.libs/libev.so.4.0.0
+
+echo 1
+gcc -o build/sent   Sent.c   -lcrypto  ${EVLIB}
+
+echo
+echo 2
+gcc -o build/received    Received.c   Processed.c  ring_buffer.c   -lpthread  -lcrypto  ${EVLIB}
+

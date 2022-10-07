@@ -1,0 +1,23 @@
+
+
+rm log_*
+
+echo Start received ...
+build/received     1234   15    >   log__recv &
+echo
+
+echo Start sent ...
+build/sent  127.0.0.1  1234     >   log__sent
+echo
+
+echo Processing ...
+	#	jobs
+	# sleep 1
+	#	Не видит задание :((
+	#	fg 1
+	# ID=`ps | grep received | cut -c1-8`
+ID=`ps | grep received | awk -F" " '{print $1}'`
+kill -s SIGINT ${ID}
+
+grep Processed: <   log__recv   >   log__Processed 
+grep Received:  <   log__recv   >   log__Received
